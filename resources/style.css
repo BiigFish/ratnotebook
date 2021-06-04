@@ -1,0 +1,252 @@
+body {
+    max-width: 720px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+
+/* HEADER */
+.navigation {
+    display: block;
+    font-size: 0; /*removes whitespace*/
+}
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+.nav-item {
+    display: inline-block;
+    width: calc(25% - 7.5px);
+    text-align: center;
+    padding: 15px 0;
+    margin: 10px 5px;
+    font-size: 16px;
+}
+.nav-fiction {
+    background-color: #ffbd59;
+    margin-left: 0;
+}
+.nav-non-fiction {
+    background-color: #5271ff;
+}
+.nav-non-non-fiction {
+    background-color: #ff5757;
+}
+.nav-projects {
+    background-color: #7ed597;
+    margin-right: 0;
+}
+.nav-item:hover {
+    height: 28px;
+    margin-bottom: 0;
+}
+.nav-current {
+    height: 28px;
+    margin-bottom: 0;
+}
+.banner {
+    margin-bottom: 50px;
+}
+.banner a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 40px 0;
+    font-size:50px;
+    text-align: center;
+    background-size: 200% 200%;
+    transition: background-position 1s;
+}
+.banner-fiction {
+    background-image: linear-gradient(to top, black 50%, #ffbd59 0);
+    background-position: top;
+}
+.banner-fiction:hover {
+    background-position: bottom;
+}
+.banner-non-fiction {
+    background-image: linear-gradient(to top, black 50%, #5271ff 0);
+    background-position: top;
+}
+.banner-non-fiction:hover {
+    background-position: bottom;
+}
+.banner-non-non-fiction {
+    background-image: linear-gradient(to top, black 50%, #ff5757 0);
+    background-position: top;
+}
+.banner-non-non-fiction:hover {
+    background-position: bottom;
+}
+.banner-projects {
+    background-image: linear-gradient(to top, black 50%, #7ed597 0);
+    background-position: top;
+}
+.banner-projects:hover {
+    background-position: bottom;
+}
+.banner-home{
+    background-color: black;
+}
+
+
+
+/* FEED */
+.item {
+    margin: 20px 0;
+}
+.image-container {
+    width: calc(50% - 40px);
+    display: inline-block;
+    margin-right: 20px;
+}
+.image-container img {
+    max-width: 100%;
+    min-width:auto;
+}
+.container-fiction {
+    border: solid 10px #ffbd59;
+}
+.container-non-fiction {
+    background-color: #5271ff;
+}
+.container-non-non-fiction {
+    background-color: #ff5757;
+}
+.container-projects {
+    background-color: #7ed597;
+}
+.text-container {
+    display: inline-block;
+    margin-left: 20px;
+    width: calc(49% - 20px);
+    vertical-align: top;
+}
+.text-container a {
+    color: black;
+    text-decoration: none;
+}
+.text-container h2 {
+    font-size: 60px;
+    margin: 0;
+    margin-top:10px;
+    transition: 0.3s;
+}
+.text-container h2:hover {
+    background-color: black;
+    color: white;
+}
+.text-container time {
+    font-size: 0.9em;
+    margin: 1em 0;
+    display: block;
+}
+.text-container p {
+    font-size: 1em;
+}
+
+
+/* POSTS */
+.posts h1 {
+    text-align: center;
+}
+.posts time {
+    font-size: 0.9em;
+    margin: 1em 0;
+    display: block;
+}
+.description {
+    font-size: 0.9em;
+    margin: 1em 0;
+    display: block;
+    font-style:italic;
+}
+.posts p {
+    font-size: 12pt;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4;
+}
+.return-button {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+.return-button a {
+    color: black;
+    text-decoration: none;
+    border: solid 2px black;
+    font-weight: bold;
+    padding: 5px;
+}
+.return-button a:hover {
+    color: white;
+    background-color: black;
+}
+@media only screen and (max-width: 720px) {
+    .posts {
+        margin: 0 10px;
+    }
+}
+/* COMMENTS */
+.comments {
+    margin-top: 50px;
+}
+.comments h2 {
+    margin-bottom: 0;
+}
+.comments hr {
+    margin: 0 0 30px 0;
+}
+.message {
+    background-color: #f7f9fc;
+    margin: 10px 0;
+    display: block;
+}
+.message img {
+    display: inline-block;
+    width: 48px;
+}
+.comment-text-container {
+    display: inline-block;
+    width: calc(99% - 48px);
+    vertical-align: top;
+}
+.name {
+    color: #fb6a4a;
+    text-decoration: underline;
+    display: block;
+    margin-bottom: 12px;
+}
+@media only screen and (max-width: 720px) {
+    .comments {
+        margin: 0 10px;
+    }
+}
+
+
+/* MOBILE */
+@media only screen and (max-width: 480px) {
+    .nav-item {
+        display: block;
+        width: 100%;
+        padding: 0;
+    }
+    .image-container {
+        display: block;
+    }
+    .nav-current {
+        height: auto;
+        margin-bottom: 10px;
+    }
+    .image-container {
+        z-index: -1;
+        position: absolute;
+        width: calc(100% - 20px);
+        background: linear-gradient(0deg, #00000038 30%, #ffffff44 100%);
+    }
+    .text-container {
+        width: calc(100% - 50px);
+        margin: 10px 15px 0 15px;
+        height: calc(100vw - 20px);
+    }
+}

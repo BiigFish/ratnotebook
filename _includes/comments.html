@@ -1,0 +1,42 @@
+
+<div class="comments">
+    <h2>COMMENTS</h2>
+    <hr>
+    {% for i in page.order %}
+        {% if i == 1 %}
+        <div class="message">
+            <img src="/untitled/resources/images/skull.jpg">
+            <div class="comment-text-container">
+                <span class="name">Demon of the Deep</span>
+                {{ page.comment1 }}
+            </div>         
+        </div>
+        {% elsif i == 2 %}
+        <div class="message">
+            <img src="/untitled/resources/images/daisy.jpg">
+            <div class="comment-text-container">
+                <span class="name">Daisy2021</span>
+                {{ page.comment2 }}
+            </div>
+        </div>
+        {% elsif i == 3 %}
+        <div class="message">
+            <img src="/untitled/resources/images/goose.jpg">
+            <div class="comment-text-container">
+                <span class="name">small goose</span>
+                {{ page.comment3 }}
+            </div>
+        </div>
+        {% elsif i == 4 %}
+        <div class="message">
+            <img src="/untitled/resources/images/blank-profile.jpg">
+            <div class="comment-text-container">
+                <span class="name">Willis</span>
+                {{ page.comment4 }}
+            </div>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+
+

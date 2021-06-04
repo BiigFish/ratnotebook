@@ -1,0 +1,85 @@
+<div class="feed">
+    {% case page.url %}
+    {% when "/fiction/" %}
+        {% for post in site.categories.fiction %}
+            <div class="item">
+                <div class="image-container container-fiction">
+                    <img src="{{ post.image | prepend: site.baseurl }}">
+                </div>
+                <div class="text-container">
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                        <h2>{{ post.title }}</h2>
+                        <time>{{ post.date | date_to_string }}</time>
+                        <p>{{ post.description }}</p>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+
+    {% when "/non-fiction/" %}
+        {% for post in site.categories.non-fiction %}
+            <div class="item">
+                <div class="image-container container-non-fiction">
+                    <img src="{{ post.image | prepend: site.baseurl }}">
+                </div>
+                <div class="text-container">
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                        <h2>{{ post.title }}</h2>
+                        <time>{{ post.date | date_to_string }}</time>
+                        <p>{{ post.description }}</p>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    {% when "/non-non-fiction/" %}
+        {% for post in site.categories.non-non-fiction %}
+            <div class="item">
+                <div class="image-container container-non-non-fiction">
+                    <img src="{{ post.image | prepend: site.baseurl }}">
+                </div>
+                <div class="text-container">
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                        <h2>{{ post.title }}</h2>
+                        <time>{{ post.date | date_to_string }}</time>
+                        <p>{{ post.description }}</p>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    {% when "/projects/" %}
+        {% for post in site.categories.projects %}
+            <div class="item">
+                <div class="image-container container-projects">
+                    <img src="{{ post.image | prepend: site.baseurl }}">
+                </div>
+                <div class="text-container">
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                        <h2>{{ post.title }}</h2>
+                        <time>{{ post.date | date_to_string }}</time>
+                        <p>{{ post.description }}</p>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    {% else %}
+        {% for post in site.posts %}
+            <div class="item">
+                <div class="image-container
+                    {% if site.categories.fiction %}container-fiction
+                    {% elsif site.categories.non-fiction %}container-non-fiction
+                    {% elsif site.categories.non-non-fiction %}container-non-non-fiction
+                    {% elsif site.categories.project %}container-project
+                    {% endif %}">
+                    <img src="{{ post.image | prepend: site.baseurl }}">
+                </div>
+                <div class="text-container">
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                        <h2>{{ post.title }}</h2>
+                        <time>{{ post.date | date_to_string }}</time>
+                        <p>{{ post.description }}</p>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    {% endcase %}
+</div>
