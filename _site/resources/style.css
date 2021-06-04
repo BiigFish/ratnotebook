@@ -230,6 +230,7 @@ body {
         display: block;
         width: 100%;
         padding: 0;
+        margin: 10px 0;
     }
     .image-container {
         display: block;
@@ -242,11 +243,21 @@ body {
         z-index: -1;
         position: absolute;
         width: calc(100% - 20px);
-        background: linear-gradient(0deg, #00000038 30%, #ffffff44 100%);
+        
     }
     .text-container {
-        width: calc(100% - 50px);
-        margin: 10px 15px 0 15px;
+        width: calc(100% - 20px);
+        margin: 10px 10px 0 10px;
         height: calc(100vw - 20px);
+        max-height: 350px;
+        position: relative;
+    }
+    .text-container a {
+        width: calc(100% - 10px);
+        position: absolute;
+        bottom: 0;
+        padding: 0 5px;
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
     }
 }
