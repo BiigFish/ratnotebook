@@ -46,10 +46,10 @@
                 </div>
             </div>
         {% endfor %}
-    {% when "/projects/" %}
-        {% for post in site.categories.projects %}
+    {% when "/food/" %}
+        {% for post in site.categories.food %}
             <div class="item">
-                <div class="image-container container-projects">
+                <div class="image-container container-food">
                     <img src="{{ post.image | prepend: site.baseurl }}">
                 </div>
                 <div class="text-container">
@@ -65,10 +65,10 @@
         {% for post in site.posts %}
             <div class="item">
                 <div class="image-container
-                    {% if site.categories.fiction %}container-fiction
-                    {% elsif site.categories.non-fiction %}container-non-fiction
-                    {% elsif site.categories.non-non-fiction %}container-non-non-fiction
-                    {% elsif site.categories.project %}container-project
+                    {% if post.category == "fiction" %}container-fiction
+                    {% elsif post.category == "non-fiction" %}container-non-fiction
+                    {% elsif post.category == "non-non-fiction" %}container-non-non-fiction
+                    {% elsif post.category == "food" %}container-food
                     {% endif %}">
                     <img src="{{ post.image | prepend: site.baseurl }}">
                 </div>

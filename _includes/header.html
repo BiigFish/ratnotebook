@@ -2,7 +2,7 @@
     <a class="nav-item nav-fiction {% if page.url == "/fiction/" or page.category == "fiction" %} nav-current {% endif %}" href="{{ site.baseurl }}/fiction/">FICTION</a>
     <a class="nav-item nav-non-fiction {% if page.url == "/non-fiction/" or page.category == "non-fiction" %} nav-current {% endif %}" href="{{ site.baseurl }}/non-fiction">non-FICTION</a>
     <a class="nav-item nav-non-non-fiction {% if page.url == "/non-non-fiction/" or page.category == "non-non-fiction" %} nav-current {% endif %}" href="{{ site.baseurl }}/non-non-fiction">NON-non-FICTION</a>
-    <a class="nav-item nav-projects {% if page.url == "/projects/" or page.category == "projects" %} nav-current {% endif %}" href="{{ site.baseurl }}/projects">PROJECTS</a>
+    <a class="nav-item nav-food {% if page.url == "/food/" or page.category == "food" %} nav-current {% endif %}" href="{{ site.baseurl }}/food">FOOD</a>
 </nav>
 
 <div class="banner">
@@ -10,7 +10,7 @@
         {% if page.url == "/fiction/" or page.category == "fiction" %}class="banner-fiction"
         {% elsif page.url == "/non-fiction/" or page.category == "non-fiction" %}class="banner-non-fiction"
         {% elsif page.url =="/non-non-fiction/" or page.category == "non-non-fiction" %}class="banner-non-non-fiction"
-        {% elsif page.url =="/projects/" or page.category == "projects" %}class="banner-projects"
+        {% elsif page.url =="/food/" or page.category == "food" %}class="banner-food"
         {% else %}class="banner-home"
         {% endif %}>
         <span class="desktop">EVAN_UNTITLED</span>
