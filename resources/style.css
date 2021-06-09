@@ -233,7 +233,7 @@ td:last-child {
 }
 .comment-text-container {
     display: inline-block;
-    width: calc(99% - 48px);
+    width: calc(100% - 60px); /* Don't know why 48px doesn't work */
     vertical-align: top;
 }
 .name {
