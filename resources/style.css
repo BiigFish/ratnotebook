@@ -176,21 +176,63 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.4;
 }
+.recipe {
+    border: solid 2px #010101;
+    padding: 10px;
+}
+.yield {
+    display:block;
+}
+.recipe-text {
+    width: calc(66% - 20px);
+    margin-right:20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.recipe-images {
+    width:33%;
+    display: inline-block;
+}
+.recipe-images img {
+    width:100%;
+}
+.rating {
+    text-align: center;
+}
+.fa-star {
+    color: #f8ce46;
+}
+.recipe-text table {
+    text-align: center;
+    margin: auto;
+}
+.recipe-text  td {
+    border-right: 2px solid grey;
+    padding: 10px;
+}
+.recipe-text td:last-child {
+    border-right: none;
+}
+.time-bold {
+    color: grey;
+}
 ol {
-    padding-left: 15px;
+    padding-left: 30px;
 }
-table {
+.ingredients {
     border-collapse: collapse;
+    margin-left: 15px;
 }
-tr {
+.ingredients tr {
     border-bottom: 1px solid grey;
 }
-td {
+.ingredients td {
     padding-right: 30px;
 }
-td:last-child {
+.ingredients td:last-child {
     padding-right: 0;
 }
+
 .return-button {
     width: 100%;
     text-align: center;
