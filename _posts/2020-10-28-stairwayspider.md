@@ -1,7 +1,7 @@
 ---
 category: fiction
 title: Stairway Spider
-image: /resources/images/stairway-spider.jpg
+image: /resources/images/stairway-spider.png
 description: Dedicated to that lonely spider that I once saw two years ago in my stairway
 order: [ 2, 3, 4, 1 ]
 comment-demon: That was so dumb I would just beat up the spider
@@ -11,7 +11,6 @@ comment-willis: The plot was too long and repetitve. Maybe work more on story st
 ---
 
 **Stairway Spider**
-
 On the busiest street between a coffee shop and the Scientology church, there is the narrowest door.
 
 An invisible door to the people walking by, suits looking at their watches and the others who either look down at their shoes or up beyond the clouds.
