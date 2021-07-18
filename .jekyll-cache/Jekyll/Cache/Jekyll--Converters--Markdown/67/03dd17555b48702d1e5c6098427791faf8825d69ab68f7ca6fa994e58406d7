@@ -1,34 +1,4 @@
-<html>
-    <head>
-        <title>untitled</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="/resources/style.css" type="text/css" rel="stylesheet">
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">   
-        <script src="https://kit.fontawesome.com/4721f68acc.js" crossorigin="anonymous"></script>
-    </head>
-    <body>
-<nav class="navigation">
-    <a class="nav-item nav-fiction " href="/fiction/">FICTION</a>
-    <a class="nav-item nav-non-fiction " href="/non-fiction">non-FICTION</a>
-    <a class="nav-item nav-non-non-fiction " href="/non-non-fiction">NON-non-FICTION</a>
-    <a class="nav-item nav-food  nav-current " href="/food">FOOD</a>
-</nav>
-
-<div class="banner">
-    <a href="/" 
-        class="banner-food"
-        >
-        RAT NOTEBOOK
-    </a>
-</div>
-
-<div class="posts">
-    <h1>Banana Bread</h1>
-    <time>June 20, 2021</time>
-    <span class="description"></span>
-    <hr>
-    <h4 id="pre">Pre</h4>
+I"<h4 id="pre">Pre</h4>
 <p>Two days and nights have passed since the destined to be Goblin Chef left his home. His loaf of Evan’s Bread was already half eaten and he was craving something different to consume. The goblin didn’t expect his wishes to be granted so soon, when he arrived at a small hut. What awaited him was GF Bread.</p>
 
 <p>The goblin was lost when he found the hut deep in the Forests of Vankoo. Inside the goblin found a relatively large dwarf sitting by a fire.</p>
@@ -59,7 +29,7 @@
      
     </div>
     <div class="recipe-images">
-        <img src="//resources/images/gfbread.jpg" />
+        <img src="/resources/images/gfbread.jpg" />
         <div class="rating">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -158,62 +128,4 @@
 <p>“Oh.”</p>
 
 <p>The morning afterwards, the goblin left the strange hut with a full stomach ready for what awaited.</p>
-
-</div>
-
-<div class="return-button">
-    <a href="/">Return Home</a>
-</div>
-
-
-<div class="comments">
-    <h2>COMMENTS</h2>
-    <hr>
-    
-        
-        <div class="message">
-            <img src="/untitled/resources/images/daisy.jpg">
-            <div class="comment-text-container">
-                <span class="name">Daisy2021</span>
-                I love it! Its the best bread evar
-            </div>
-        </div>
-        
-    
-        
-        <div class="message">
-            <img src="/untitled/resources/images/skull.jpg">
-            <div class="comment-text-container">
-                <span class="name">Demon of the Deep</span>
-                Gluten free is for losers!
-            </div>         
-        </div>
-        
-    
-        
-        <div class="message">
-            <img src="/untitled/resources/images/blank-profile.jpg">
-            <div class="comment-text-container">
-                <span class="name">Willis</span>
-                What's the point of this goblin story?
-            </div>
-        </div>
-        
-    
-        
-        <div class="message">
-            <img src="/untitled/resources/images/goose.jpg">
-            <div class="comment-text-container">
-                <span class="name">small goose</span>
-                what does gf stand for?
-            </div>
-        </div>
-        
-    
-</div>
-
-
-
-
-</body>
-</html>
+:ET
