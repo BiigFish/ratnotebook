@@ -88,15 +88,9 @@ body {
 .banner-home{
     background-color: black;
 }
-.banner .mobile {
-    display: none;
-}
 @media only screen and (max-width: 720px) {
-    .banner .desktop {
-        display: none;
-    }
-    .banner .mobile {
-        display: block;
+    .banner a {
+        font-size: 45px;
     }
 }
 

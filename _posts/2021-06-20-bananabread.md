@@ -1,9 +1,26 @@
-I"�<h4 id="pre">Pre</h4>
-<p>Two days and nights have passed since the destined to be Goblin Chef left his home. His loaf of Evan’s Bread was already half eaten and he was craving something different to consume. The goblin didn’t expect his wishes to be granted so soon, when he arrived at a small hut. What awaited him was GF Bread.
-The goblin was lost when he found the hut deep in the Forests of Vankoo. Inside the goblin found a relatively large dwarf sitting by a fire. 
-“Welcome little creature. My name is Garret Farwood.” The dwarf said in a deep voice gesturing to the goblin to take a seat next to the fire. 
+---
+category: food
+title: Banana Bread
+image: /resources/images/gfbread.jpg
+description: 
+order: [ 2, 1, 4, 3 ]
+comment-demon: Gluten free is for losers!
+comment-daisy: I love it! Its the best bread evar
+comment-goose: what does gf stand for?
+comment-willis: What's the point of this goblin story?
+---
+
+#### Pre
+Two days and nights have passed since the destined to be Goblin Chef left his home. His loaf of Evan’s Bread was already half eaten and he was craving something different to consume. The goblin didn’t expect his wishes to be granted so soon, when he arrived at a small hut. What awaited him was GF Bread.
+
+The goblin was lost when he found the hut deep in the Forests of Vankoo. Inside the goblin found a relatively large dwarf sitting by a fire.
+
+“Welcome little creature. My name is Garret Farwood.” The dwarf said in a deep voice gesturing to the goblin to take a seat next to the fire.
+
 The dwarf Garret Farwood noticed the goblin taking out his bread for a meal.
-“Save your bread little goblin. Here have my bread, GF Bread. It is much healthier.”</p>
+
+“Save your bread little goblin. Here have my bread, GF Bread. It is much healthier.”
+
 
 <div class="recipe">
     <span class="yield">YIELD: 1 LOAF</span>
@@ -14,18 +31,18 @@ The dwarf Garret Farwood noticed the goblin taking out his bread for a meal.
         
         <table>
             <tr>
-                <td><span class="time-bold">PREP TIME</span><br />15 minutes</td>
-                <td><span class="time-bold">COOK TIME</span><br />1 hour<br />50 minutes</td>
-                <td><span class="time-bold">ADDITIONAL<br />TIME</span><br />1 hour</td>
+                <td><span class="time-bold">PREP TIME</span><br>15 minutes</td>
+                <td><span class="time-bold">COOK TIME</span><br>1 hour<br>50 minutes</td>
+                <td><span class="time-bold">ADDITIONAL<br>TIME</span><br>1 hour</td>
             </tr>
             <tfoot>
-                <td colspan="3"><span class="time-bold">TOTAL TIME</span><br />2 hours 15 minutes</td>
+                <td colspan="3"><span class="time-bold">TOTAL TIME</span><br>2 hours 15 minutes</td>
             </tfoot>
         </table>
      
     </div>
     <div class="recipe-images">
-        <img src="/untitled//resources/images/gfbread.jpg" />
+        <img src="{{ site.baseurl }}/{{ page.image }}">
         <div class="rating">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -103,14 +120,24 @@ The dwarf Garret Farwood noticed the goblin taking out his bread for a meal.
         <li>Wait half the day being tempted by the smell of fresh bread until it beeps</li>
     </ol>
 
+    <h3>NOTES</h3>
+    <ol>
+        <li>Recipe stolen from <a href="https://www.glutenfreepalate.com/gluten-free-bread-recipe/">here</a></li>
+    </ol>
+
     
 
 </div>
 
-<h4 id="post">Post</h4>
-<p>The goblin took the fresh loaf out of the bread machine and wrapped it in cloth. He delicately placed the wrapped bread on the top of his now full rucksack. He was ready for his journey.</p>
+#### Post
+The GF Bread did indeed have a different taste and texture compared to his own bread. Was it better? The goblin was unsure.
 
-<p>With the smell of fresh bread, the goblin left his small home, a hole in the side of a mountain.</p>
+The dwarf spoke while the goblin ate. “Your journey appears to be a long one. You’ll need much more food than just bread to survive. You better be ready to not just eat, but also learn new recipes.”
 
-<p>This was the beginning of the destined to be Goblin Chef.</p>
-:ET
+The goblin interrupted, “What does the GF stand for?”
+
+“It’s the initials of my name.”
+
+“Oh.”
+
+The morning afterwards, the goblin left the strange hut with a full stomach ready for what awaited.
