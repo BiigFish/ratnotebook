@@ -42,7 +42,7 @@ The dwarf Garret Farwood noticed the goblin taking out his bread for a meal.
      
     </div>
     <div class="recipe-images">
-        <img src="{{ site.baseurl }}/{{ page.image }}">
+        <img src="{{ page.image }}">
         <div class="rating">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
