@@ -63,6 +63,7 @@
         {% endfor %}
     {% else %}
         {% for post in site.posts %}
+        {% if post.category != "draft" %}
             <div class="item">
                 <div class="image-container
                     {% if post.category == "fiction" %}container-fiction
@@ -80,6 +81,7 @@
                     </a>
                 </div>
             </div>
+            {% endif %}
         {% endfor %}
     {% endcase %}
 </div>
