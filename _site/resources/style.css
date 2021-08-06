@@ -193,7 +193,7 @@ body {
 .rating {
     text-align: center;
 }
-.fa-star {
+.fa-star, .fa-star-half-alt {
     color: #f8ce46;
 }
 .recipe-text table {
