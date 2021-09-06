@@ -4,7 +4,7 @@
         {% for post in site.categories.fiction %}
             <div class="item">
                 <div class="image-container container-fiction">
-                    <img src="{{ post.image | prepend: site.baseurl }}">
+                    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">
                 </div>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
@@ -20,7 +20,7 @@
         {% for post in site.categories.non-fiction %}
             <div class="item">
                 <div class="image-container container-non-fiction">
-                    <img src="{{ post.image | prepend: site.baseurl }}">
+                    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">
                 </div>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
@@ -35,7 +35,7 @@
         {% for post in site.categories.non-non-fiction %}
             <div class="item">
                 <div class="image-container container-non-non-fiction">
-                    <img src="{{ post.image | prepend: site.baseurl }}">
+                    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">
                 </div>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
@@ -50,7 +50,7 @@
         {% for post in site.categories.food %}
             <div class="item">
                 <div class="image-container container-food">
-                    <img src="{{ post.image | prepend: site.baseurl }}">
+                    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">
                 </div>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
@@ -71,7 +71,7 @@
                     {% elsif post.category == "non-non-fiction" %}container-non-non-fiction
                     {% elsif post.category == "food" %}container-food
                     {% endif %}">
-                    <img src="{{ post.image | prepend: site.baseurl }}">
+                    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">
                 </div>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
