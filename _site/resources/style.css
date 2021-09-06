@@ -14,33 +14,34 @@ body {
     color: white;
     text-decoration: none;
 }
-.nav-item {
+.nav-item h2 {
     display: inline-block;
     width: calc(25% - 7.5px);
     text-align: center;
     padding: 15px 0;
     margin: 10px 5px;
     font-size: 16px;
+    font-weight: 100;
 }
-.nav-fiction {
+.nav-fiction h2 {
     background-color: #ffbd59;
     margin-left: 0;
 }
-.nav-non-fiction {
+.nav-non-fiction h2 {
     background-color: #5271ff;
 }
-.nav-non-non-fiction {
+.nav-non-non-fiction h2 {
     background-color: #ff5757;
 }
-.nav-food {
+.nav-food h2 {
     background-color: #7ed597;
     margin-right: 0;
 }
-.nav-item:hover {
+.nav-item h2:hover {
     height: 28px;
     margin-bottom: 0;
 }
-.nav-current {
+.nav-current h2 {
     height: 28px;
     margin-bottom: 0;
 }
@@ -49,13 +50,17 @@ body {
 }
 .banner a {
     display: block;
-    color: white;
     text-decoration: none;
-    padding: 40px 0;
-    font-size:50px;
     text-align: center;
     background-size: 200% 200%;
     transition: background-position 1s;
+}
+.banner h1 {
+    color: white;
+    margin: 0;
+    padding: 40px 0;
+    font-size:50px;
+    font-weight:100;
 }
 .banner-fiction {
     background-image: linear-gradient(to top, black 50%, #ffbd59 0);
@@ -89,7 +94,7 @@ body {
     background-color: black;
 }
 @media only screen and (max-width: 720px) {
-    .banner a {
+    .banner h1 {
         font-size: 45px;
     }
 }
@@ -130,13 +135,13 @@ body {
     color: black;
     text-decoration: none;
 }
-.text-container h2 {
+.text-container h3 {
     font-size: 60px;
     margin: 0;
     margin-top:10px;
     transition: 0.3s;
 }
-.text-container h2:hover {
+.text-container h3:hover {
     background-color: black;
     color: white;
 }
