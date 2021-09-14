@@ -22,6 +22,7 @@ body {
     margin: 10px 5px;
     font-size: 16px;
     font-weight: 100;
+    vertical-align: middle;
 }
 .nav-fiction h2 {
     background-color: #ffbd59;
@@ -38,12 +39,12 @@ body {
     margin-right: 0;
 }
 .nav-item h2:hover {
-    height: 28px;
     margin-bottom: 0;
+    padding-bottom: 25px;
 }
 .nav-current h2 {
-    height: 28px;
     margin-bottom: 0;
+    padding-bottom: 25px;
 }
 .banner {
     margin-bottom: 50px;
@@ -291,19 +292,35 @@ ol {
 
 
 /* MOBILE */
-@media only screen and (max-width: 480px) {
-    .nav-item {
-        display: block;
-        width: 100%;
-        padding: 0;
-        margin: 10px 0;
+@media only screen and (max-width: 578px) {
+    .nav-non-non-fiction h2 {
+        padding: 6px 0;
     }
+    .nav-non-non-fiction.nav-current h2 {
+        padding-bottom: 16px;
+    }
+    .nav-non-non-fiction h2:hover {
+        margin-bottom: 0;
+        padding-bottom: 16px;
+    }
+}
+@media only screen and (max-width: 415px) {
+    .nav-non-fiction h2 {
+        padding: 6px 0;
+    }
+    .nav-non-fiction.nav-current h2 {
+        padding-bottom: 16px;
+    }
+    .nav-non-fiction h2:hover {
+        margin-bottom: 0;
+        padding-bottom: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 480px) {
     .image-container {
         display: block;
-    }
-    .nav-current {
-        height: auto;
-        margin-bottom: 10px;
     }
     .image-container {
         z-index: -1;
