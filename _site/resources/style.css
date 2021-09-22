@@ -160,6 +160,11 @@ body {
 .posts h1 {
     text-align: center;
 }
+.posts img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
 .posts time {
     font-size: 0.9em;
     margin: 1em 0;

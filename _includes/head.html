@@ -3,8 +3,9 @@
         <meta charset="utf-8">
         <title>{% if page.title %}{{page.title}}{% else %}Rat Notebook{% endif %}</title>
         <meta name="author" content="Evan Chaninkski">
-        <meta name="description" content="Written work by the renowned Canadian author">
-        <meta name="keywords" content="Writing,Fiction,Non-fiction,Blog">
+        <meta name="description" content="Writing and food blog of all written work by the renowned Canadian author">
+        <meta name="keywords" content="Writing,Fiction,Non-fiction,Blog,Food,ratnotebook">
+        <meta property="og:image" content="{% if page.url == "/" %}/resources/images/ratnotebook-cover.png{% else %}{{ page.image }}{% endif %}">
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/resources/favicon.ico">
         <link href="{{ site.baseurl }}/resources/style.css" type="text/css" rel="stylesheet">
