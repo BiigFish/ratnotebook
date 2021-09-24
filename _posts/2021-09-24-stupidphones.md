@@ -3,7 +3,7 @@ category: non-fiction
 title: Stupid Phones
 image: /resources/images/dumb-phone.png
 description: Ten quick tricks to eliminate your phone addiction!
-order: [ 3, 4, 3, 1 ]
+order: [ 2, 4, 3, 1 ]
 comment-demon: Dumb phones are for dummies
 comment-daisy: I love it! No more addiction for me
 comment-goose: i lost my phone
