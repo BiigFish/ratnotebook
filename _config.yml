@@ -20,4 +20,3 @@ defaults:
     values:
       layout: "posts"
       permalink: "/:categories/:title/"
-    

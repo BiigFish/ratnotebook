@@ -1,16 +1,16 @@
 <nav class="navigation">
-    <a class="nav-item nav-fiction {% if page.url == "/fiction/" or page.category == "fiction" %} nav-current {% endif %}" href="{{ site.baseurl }}/fiction/"><h2>FICTION</h2></a>
-    <a class="nav-item nav-non-fiction {% if page.url == "/non-fiction/" or page.category == "non-fiction" %} nav-current {% endif %}" href="{{ site.baseurl }}/non-fiction"><h2>non-FICTION</h2></a>
-    <a class="nav-item nav-non-non-fiction {% if page.url == "/non-non-fiction/" or page.category == "non-non-fiction" %} nav-current {% endif %}" href="{{ site.baseurl }}/non-non-fiction"><h2>NON-non-FICTION</h2></a>
-    <a class="nav-item nav-food {% if page.url == "/food/" or page.category == "food" %} nav-current {% endif %}" href="{{ site.baseurl }}/food"><h2>FOOD</h2></a>
+    <a class="nav-item nav-fiction {% if page.url contains "/fiction/" %} nav-current {% endif %}" href="{{ site.baseurl }}/fiction/"><h2>FICTION</h2></a>
+    <a class="nav-item nav-non-fiction {% if page.url contains "/non-fiction/" %} nav-current {% endif %}" href="{{ site.baseurl }}/non-fiction"><h2>non-FICTION</h2></a>
+    <a class="nav-item nav-non-non-fiction {% if page.url contains "/non-non-fiction/" %} nav-current {% endif %}" href="{{ site.baseurl }}/non-non-fiction"><h2>NON-non-FICTION</h2></a>
+    <a class="nav-item nav-food {% if page.url contains "/food/" %} nav-current {% endif %}" href="{{ site.baseurl }}/food"><h2>FOOD</h2></a>
 </nav>
 
 <div class="banner">
     <a href="{{ site.baseurl }}/" 
-        {% if page.url == "/fiction/" or page.category == "fiction" %}class="banner-fiction"
-        {% elsif page.url == "/non-fiction/" or page.category == "non-fiction" %}class="banner-non-fiction"
-        {% elsif page.url =="/non-non-fiction/" or page.category == "non-non-fiction" %}class="banner-non-non-fiction"
-        {% elsif page.url =="/food/" or page.category == "food" %}class="banner-food"
+        {% if page.url contains "/fiction/" %}class="banner-fiction"
+        {% elsif page.url contains "/non-fiction/" %}class="banner-non-fiction"
+        {% elsif page.url contains "/non-non-fiction/" %}class="banner-non-non-fiction"
+        {% elsif page.url contains "/food/" %}class="banner-food"
         {% else %}class="banner-home"
         {% endif %}>
         <h1>RAT NOTEBOOK</h1>

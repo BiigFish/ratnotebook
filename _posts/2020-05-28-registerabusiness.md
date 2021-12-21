@@ -1,5 +1,6 @@
 ---
 category: non-fiction
+tag: article
 title: Register a Name
 image: /resources/images/registeraname.jpg
 description: How I think you're supposed to register a business in Ontario

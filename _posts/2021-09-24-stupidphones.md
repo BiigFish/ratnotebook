@@ -1,5 +1,6 @@
 ---
 category: non-fiction
+tag: article
 title: Stupid Phones
 image: /resources/images/dumb-phone.png
 description: Ten quick tricks to eliminate your phone addiction!

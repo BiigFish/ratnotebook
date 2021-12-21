@@ -1,5 +1,5 @@
 ---
-category: draft
+category: food
 title: Banana Bread
 image: /resources/images/gfbread.jpg
 description: 

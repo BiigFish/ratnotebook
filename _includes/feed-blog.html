@@ -1,0 +1,21 @@
+<div class="blog-container">
+
+{% for post in site.categories.blog %}
+    <div class="blog-post">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+        <hr>
+        <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+        <hr class="blog-line1">
+        <h3>{{ post.title }}</h3>
+        <hr class="blog-line2">
+        <div class="blogtag-container">
+            {% for tag in post.tags %}
+                <p class="blogtag">{{ tag }}</p>
+            {% endfor %}
+        </div>
+        <p class="blog-desc">{{ post.description }}</p>
+    </a>
+    </div>
+{% endfor %}
+
+</div>

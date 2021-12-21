@@ -17,7 +17,12 @@
         {% endfor %}
 
     {% when "/non-fiction/" %}
-        {% for post in site.categories.non-fiction %}
+        <div class="blog-link">
+            <a href="{{ site.baseurl }}/non-fiction/blog/">
+                <h3>THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG</h3>
+            </a>
+        </div>
+        {% for post in site.tags.article %}
             <div class="item">
                 <div class="image-container container-non-fiction">
                     <img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">
@@ -63,7 +68,7 @@
         {% endfor %}
     {% else %}
         {% for post in site.posts %}
-        {% if post.category != "draft" %}
+        {% unless post.categories contains "blog" %}
             <div class="item">
                 <div class="image-container
                     {% if post.category == "fiction" %}container-fiction
@@ -81,7 +86,7 @@
                     </a>
                 </div>
             </div>
-            {% endif %}
+        {% endunless %}
         {% endfor %}
     {% endcase %}
 </div>
