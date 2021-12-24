@@ -278,6 +278,7 @@ ol {
 }
 .blog-container {
     border-left: solid 3px black;
+    margin-left: 5px;
 }
 .blog-post {
     margin-bottom: 20px;
