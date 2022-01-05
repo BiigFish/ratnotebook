@@ -1,6 +1,6 @@
 ---
 category: food
-layout: recipe
+layout: recipe-old
 title: Energy Balls
 image: /resources/images/energyballs.png
 description: I took a journey, to find the the ultimate snack

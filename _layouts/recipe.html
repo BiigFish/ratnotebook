@@ -6,76 +6,9 @@
     <time>{{ page.date | date: "%B %-d, %Y" }}</time>
     <span class="description">{{ page.description }}</span>
     <hr>
-    {{ page.pre }}
 
-    <div class="recipe">
-        <span class="yield">YIELD: {{page.yield}}</span>
-        <div class="recipe-text">
-            <h2>{{ page.title }}</h2>
-            <h2>RECIPE</h2>
-            <p>{{ page.recipe-description }}</p>
-            
-            <table>
-                <tr>
-                    <td><span class="time-bold">PREP TIME</span><br>{{ page.prep-time }}</td>
-                    <td><span class="time-bold">COOK TIME</span><br>{{ page.cook-time}}</td>
-                    <td><span class="time-bold">TOTAL TIME</span><br>{{ page.total-time }}</td>
-                </tr>
-            </table>
-         
-        </div>
-        <div class="recipe-images">
-            <img src="{{ page.image }}">
-            <div class="rating">
-                <i class="{{page.one-star}}"></i>
-                <i class="{{page.two-star}}"></i>
-                <i class="{{page.three-star}}"></i>
-                <i class="{{page.four-star}}"></i>
-                <i class="{{page.five-star}}"></i>
-            </div>
-        </div>
-    
-        <h3>Ingredients</h3>
-        <table class="ingredients">
-            <tbody>
-            {% for ingredients in page.ingredients %}
-                <tr>
-                    <td>{{ingredients.amount}}</td>
-                    <td>{{ingredients.name}}</td>
-                    <td>{{ingredients.note}}</td>
-                </tr>
-            {% endfor %}
-            </tbody>
-        </table>
-    
-        <h3>INSTRUCTIONS</h3>
-        
-        <ol>
-            {% for instruction in page.instruction %}
-            <li>{{instruction}}</li>
-            {% endfor %}
-        </ol>
+{{ content }}
 
-    
-        <h3>NOTES</h3>
-        <ol>
-            {% for notes in page.notes %}
-            <li>{{notes}}</li>
-            {% endfor %}
-        </ol>
-    
-        
-    
-    </div>
-
-
-
-
-
-
-
-
-    {{ page.post }}
 </div>
 
 <div class="return-button">

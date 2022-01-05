@@ -1,6 +1,6 @@
 ---
 category: food
-layout: recipe
+layout: recipe-old
 title: Peach Blueberry Crisp
 image: /resources/images/peach-blueberry-crispe.png
 description: Yes the picture sucks. I accidentally ate all of it before I snapped it.
