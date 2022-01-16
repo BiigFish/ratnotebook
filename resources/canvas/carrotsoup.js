@@ -51,12 +51,6 @@ ctx.lineTo(carrotRightX, carrotRightY);
 ctx.lineTo(centerX, centerY);
 ctx.fill();
 
-
-
-console.log(carrotLeftX);
-console.log(carrotRightX);
-console.log(carrotGreenX);
-
 ctx.beginPath();
 ctx.fillStyle = 'red';
 ctx.arc(centerX, centerY, width * 0.3, 0, 1 * Math.PI);
