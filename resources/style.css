@@ -113,6 +113,8 @@ body {
 .image-container img {
     max-width: 100%;
     min-width:auto;
+    display: block;
+    margin: auto;
 }
 .container-fiction {
     border: solid 10px #ffbd59;
