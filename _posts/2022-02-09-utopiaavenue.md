@@ -10,8 +10,6 @@ comment-daisy: I love it! This band is the best
 comment-goose: i cant find utopia avenue on spotify
 comment-willis: What a waste of time. This review barely even talks about the book.
 ---
-# Utopia Avenue Book Review
-
 ## Intro
 
 "When was the last time your wrote an essay?"

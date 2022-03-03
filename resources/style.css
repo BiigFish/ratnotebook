@@ -164,6 +164,7 @@ body {
 }
 .posts img {
     max-width: 100%;
+    max-height: 350px;
     display: block;
     margin: auto;
 }
@@ -182,6 +183,13 @@ body {
     font-size: 12pt;
     font-family: 'Roboto', sans-serif;
     line-height: 1.4;
+}
+.posts blockquote {
+    border-left:3px solid #00A4EF;
+    padding-left: 5px;
+}
+.posts blockquote p {
+    font-style: italic;
 }
 .recipe {
     border: solid 2px #010101;
