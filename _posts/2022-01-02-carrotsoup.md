@@ -2,7 +2,7 @@
 category: food
 layout: recipe
 title: Carrot Soup
-canvas: /resources/canvas/carrotsoup.js
+image: /resources/svg/carrotsoup.svg
 description: There's nothing to it
 
 recipe-description: +2 stat to vision.

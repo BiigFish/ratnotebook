@@ -409,7 +409,7 @@ ol {
         z-index: -1;
         position: absolute;
         width: calc(100% - 20px);
-        
+        height: 350px;
     }
     .text-container {
         width: calc(100% - 20px);
@@ -425,5 +425,8 @@ ol {
         padding: 0 5px;
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
+    }
+    .text-container h3 {
+        font-size: 30px;
     }
 }

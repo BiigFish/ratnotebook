@@ -16,10 +16,6 @@
     </div>
     <div class="recipe-images">
         {% if {{page.image}} %}<img src="{{ page.image }}">{% endif %}
-        {% if {{page.canvas}} %}
-            <canvas id="{{ page.canvas }}"></canvas>
-            <script src="{{ page.canvas }}"></script>
-        {% endif %}
         <div class="rating">
             <i class="{{page.one-star}}"></i>
             <i class="{{page.two-star}}"></i>
