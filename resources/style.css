@@ -7,47 +7,52 @@ body {
 
 /* HEADER */
 .navigation {
-    display: block;
-    font-size: 0; /*removes whitespace*/
+    display: flex;
+    gap: 10px;
+}
+@media only screen and (max-width: 480px) {
+    .navigation {
+        gap: 5px;
+    }
 }
 .navigation a {
     color: white;
     text-decoration: none;
+    flex-grow:4;
+    flex-basis: 0;
+    text-align: center;
+    height: 50px;
+    display: table;
+    margin-top:10px;
+    transition: 0.3s;
+
 }
 .nav-item h2 {
-    display: inline-block;
-    width: calc(25% - 7.5px);
-    text-align: center;
-    padding: 15px 0;
-    margin: 10px 5px;
     font-size: 16px;
     font-weight: 100;
+    display: table-cell;
     vertical-align: middle;
 }
-.nav-fiction h2 {
+.nav-fiction {
     background-color: #ffbd59;
-    margin-left: 0;
 }
-.nav-non-fiction h2 {
+.nav-non-fiction {
     background-color: #5271ff;
 }
-.nav-non-non-fiction h2 {
+.nav-non-non-fiction {
     background-color: #ff5757;
 }
-.nav-food h2 {
+.nav-food {
     background-color: #7ed597;
-    margin-right: 0;
 }
-.nav-item h2:hover {
+.navigation a:hover {
     margin-bottom: 0;
-    padding-bottom: 25px;
+    padding-top: 10px;
+    margin-top:0;
 }
-.nav-current h2 {
-    margin-bottom: 0;
-    padding-bottom: 25px;
-}
-.banner {
-    margin-bottom: 50px;
+.nav-current {
+    margin-top: 0 !important;
+    padding-top: 10px;
 }
 .banner a {
     display: block;
@@ -65,31 +70,31 @@ body {
 }
 .banner-fiction {
     background-image: linear-gradient(to top, black 50%, #ffbd59 0);
-    background-position: top;
+    background-position: bottom;
 }
 .banner-fiction:hover {
-    background-position: bottom;
+    background-position: top;
 }
 .banner-non-fiction {
-    background-image: linear-gradient(to top, black 50%, #5271ff 0);
-    background-position: top;
+    background-image: linear-gradient(to bottom, black 50%, #5271ff 0);
+    background-position: bottom;
 }
 .banner-non-fiction:hover {
-    background-position: bottom;
+    background-position: top;
 }
 .banner-non-non-fiction {
-    background-image: linear-gradient(to top, black 50%, #ff5757 0);
-    background-position: top;
+    background-image: linear-gradient(to bottom, black 50%, #ff5757 0);
+    background-position: bottom;
 }
 .banner-non-non-fiction:hover {
-    background-position: bottom;
-}
-.banner-food {
-    background-image: linear-gradient(to top, black 50%, #7ed597 0);
     background-position: top;
 }
-.banner-food:hover {
+.banner-food {
+    background-image: linear-gradient(to bottom, black 50%, #7ed597 0);
     background-position: bottom;
+}
+.banner-food:hover {
+    background-position: top;
 }
 .banner-home{
     background-color: black;
@@ -270,6 +275,9 @@ ol {
     }
 }
 /* BLOG */
+.blog-link {
+    margin-top: 20px;
+}
 .blog-link a {
     text-decoration: none;
 }
@@ -375,32 +383,6 @@ ol {
 
 
 /* MOBILE */
-@media only screen and (max-width: 578px) {
-    .nav-non-non-fiction h2 {
-        padding: 6px 0;
-    }
-    .nav-non-non-fiction.nav-current h2 {
-        padding-bottom: 16px;
-    }
-    .nav-non-non-fiction h2:hover {
-        margin-bottom: 0;
-        padding-bottom: 16px;
-    }
-}
-@media only screen and (max-width: 415px) {
-    .nav-non-fiction h2 {
-        padding: 6px 0;
-    }
-    .nav-non-fiction.nav-current h2 {
-        padding-bottom: 16px;
-    }
-    .nav-non-fiction h2:hover {
-        margin-bottom: 0;
-        padding-bottom: 16px;
-    }
-}
-
-
 @media only screen and (max-width: 480px) {
     .image-container {
         display: block;
