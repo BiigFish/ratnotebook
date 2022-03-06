@@ -404,9 +404,6 @@ ol {
 .subscribe-heavy {
     font-weight: bold;
 }
-.sub-img {
-    max-height: 800px !important;
-}
 .sub-svg {
     height: 800px;
     display: block;
