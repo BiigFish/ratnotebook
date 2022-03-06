@@ -6,6 +6,13 @@ body {
 
 
 /* HEADER */
+.subscribe a {
+    margin: auto;
+    text-decoration: none;
+    color: red;
+    font-size: 26px;
+    background-color: white;
+}
 .navigation {
     display: flex;
     gap: 10px;
@@ -69,7 +76,7 @@ body {
     font-weight:100;
 }
 .banner-fiction {
-    background-image: linear-gradient(to top, black 50%, #ffbd59 0);
+    background-image: linear-gradient(to bottom, black 50%, #ffbd59 0);
     background-position: bottom;
 }
 .banner-fiction:hover {
@@ -378,6 +385,34 @@ ol {
 @media only screen and (max-width: 720px) {
     .comments {
         margin: 0 10px;
+    }
+}
+/* FORM */
+.form-container {
+    width: 100%;
+}
+.subscribe-text {
+    display: block;
+    text-align: center;
+}
+.subscribe-light {
+    font-weight: lighter;
+}
+.subscribe-medium {
+    font-weight: initial;
+}
+.subscribe-heavy {
+    font-weight: bold;
+}
+.sub-svg {
+    height: 800px;
+    display: block;
+    margin: 10px auto;
+    background-color: aliceblue;
+}
+@media only screen and (max-width: 530px) {
+    .sub-svg {
+        height: inherit;
     }
 }
 
