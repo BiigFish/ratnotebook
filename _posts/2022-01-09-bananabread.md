@@ -74,7 +74,7 @@ Almost all the shelves in Storage room #21 have fallen onto each other like domi
 
 Phelps wrote the number in his notebook to be published in the afternoon column. Disaster at the Egg Factory.
 
-Meanwhile in a Meeting Room C-2, Director Zakarr is speaking with the heads of all the departments of the factory. Except for Gary, the manager of Storage Room #21, he's sitting in a small dark locked room in a basement, to be questioned later.
+Meanwhile in a Meeting Room C-2, Director Zakarr is speaking with the heads of all the departments of the factory. Except for Gary, the manager of Storage Room #21. He's sitting in a small dark room locked in the basement, to be questioned later.
 
 But first a solution must be met before blame is dealt.
 
@@ -82,7 +82,7 @@ But first a solution must be met before blame is dealt.
 
 Everyone in the room nodded very slightly while avoiding eye contact. 
 
-Supervisor Chain spoke up, "Approximately 30% of the eggs are completely destroyed. The yoke is stained with the ground. I've already began th cleaning operation on them. However, the other 70% are cracked but still relatively intact. While we won't be able to sell them, we can still salvage them if we use them immediately."
+Supervisor Chain spoke up, "Approximately 30% of the eggs are completely destroyed. The ground is stained with yokes. I've already began the cleaning operation on them. However, the other 70% are cracked but still relatively intact. While we won't be able to sell them, we can still salvage them if we use them immediately."
 
 "So what are we supposed to do with 8361 partially cracked eggs?"
 
@@ -102,10 +102,12 @@ Meanwhile the Banana Factory were all too happy to send their excess of bananas 
 
 A collaboration between the Egg and Banana Factory. No one would have ever thought the day would come. Especially after the divorce between the two directors. But sometimes two disasters at once can make wounds heal. A perfect storm.
 
+Meanwhile...
+
 "This is the worst. This is hell!" yelled Chef Barbon. "The one time I take a vacation all year and these damn factories tell me I have to bake 3000 banana breads."
 
-Chef Barbon's bakery wasn't even large. It was small that fitted six bakers in total. They furiously baked loaf after loaf while outside trucks awaited to deliver eggs and bananas. 
+Chef Barbon's bakery wasn't even large. It was small that fitted six bakers in total. They furiously baked loaf after loaf, while outside trucks awaited to deliver eggs and bananas. 
 
-Chef Barbon continued his rant while he baked, "And each factory is taking 30% cut. Each! We're not even making much money out of this. And we have to pay for the flour, butter, sugar, salt, cinnamon,..."
+Chef Barbon continued his rant while he baked, "And each factory is taking 30% cut. Each! We're not even making much profit out of this. And we have to pay for the flour, butter, sugar, salt, cinnamon,..."
 
 Chef Barbon's wife spoke up, "You'd think the Banana Factory could have just made banana pudding, and the Egg Factory make quiche."
