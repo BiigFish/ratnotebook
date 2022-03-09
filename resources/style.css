@@ -6,13 +6,6 @@ body {
 
 
 /* HEADER */
-.subscribe a {
-    margin: auto;
-    text-decoration: none;
-    color: red;
-    font-size: 26px;
-    background-color: white;
-}
 .navigation {
     display: flex;
     gap: 10px;
