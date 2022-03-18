@@ -82,13 +82,13 @@ Just delete your account. I still use Reddit all the time for information, like 
 
 Oh fuck, this was my worst rebound. I'd just spend all day watching videos. Sometimes I'd only watch a quick five-minute-long video, but would then spend hours clicking on a new recommended video. I'd just constantly scroll through the recommended list both on my computer and phone. Half the time I'd be rewatching videos I've already seen. 
 
-Solution: Unhook YouTube extension [https://unhook.app/]. They have a lot of settings, but I've disabled the recommended list. I still love YouTube and like the people I'm subscribed to, they don't upload too much, usually a new video from one person per day. I'll watch it, and that'll be that. I can move on. Unfortunately there are no extensions for phones, so I deleted the app and signed out on the browser. Sometimes I'll open YouTube on my phone, and I'm greeted by the un-algorithm recommendations of absolute trending trash and I close it.
+Solution: Unhook YouTube extension <https://unhook.app/>. They have a lot of settings, but I've disabled the recommended list. I still love YouTube and like the people I'm subscribed to, they don't upload too much, usually a new video from one person per day. I'll watch it, and that'll be that. I can move on. Unfortunately there are no extensions for phones, so I deleted the app and signed out on the browser. Sometimes I'll open YouTube on my phone, and I'm greeted by the un-algorithm recommendations of absolute trending trash and I close it.
 
 ### Twitter
 
 I'm a big fan of Twitter. While Reddit is following topics and random wankers posting about the topic. Twitter is following individuals I actually like. And then the rest of Twitter is ads and recommended wankers to follow. 
 
-Solution: another extension [https://github.com/insin/tweak-new-twitter/]. Strips away all the bullshit so, it's just the tweets from the people I follow. So sure I waste like ten minutes a day reading all tweets from them, and then there's nothing else to do except move on. 
+Solution: another extension <https://github.com/insin/tweak-new-twitter/>. Strips away all the bullshit so, it's just the tweets from the people I follow. So sure I waste like ten minutes a day reading all tweets from them, and then there's nothing else to do except move on. 
 
 As for the Twitter on the phone, I deleted the app and keep myself signed out on the browser. Too much work to sign in.
 
