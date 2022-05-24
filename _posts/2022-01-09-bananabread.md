@@ -8,7 +8,7 @@ description: Is it a bread or is it a cake?
 recipe-description: The tastiest banana bread recipe you'll find on this website!
 yield: 1 LOAF
 prep-time: 20 minutes
-cook-time: 12 hour
+cook-time: 2 hour
 total-time: 2 hour 20 mins
 one-star: fas fa-star
 two-star: fas fa-star
