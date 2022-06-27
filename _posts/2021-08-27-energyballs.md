@@ -39,6 +39,9 @@ instruction:
 - Eat
 notes:
 - Recipe stolen from <a href="https://www.wellplated.com/energy-balls/">here</a>
+- Decrease chocolate chips to maybe a 1/4 cup?
+- could skimp on sweetener
+- never skimp on peanut butter
 
 pre: "<h4>Pre</h4>
 <p>For a while the only light was the glow of the city on our backs. But then the sunrise started to appear in our direction. So, we were walking east. I turned for one last look back home. Well, not home anymore.</p>
