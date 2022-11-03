@@ -16,17 +16,18 @@ three-star: fas fa-star
 four-star: fas fa-star
 five-star: fas fa-star
 ingredients:
-- amount: 18 Oreos
-  name: 2 (8 ounce) packs
-- amount: Cream Cheese (softened)
-  name: 2
-- amount: Eggs
-  name: 1/2 cup
-- amount: Sour cream
-  name: 1/2 cup
-- amount: Sugar
-  name: 1/2 tsp
-- amount: Vanilla
+- amount: 18 
+  name: Oreos
+- amount: 2 (8 ounce) packs
+  name: Cream Cheese (softened)
+- amount: 2
+  name: Eggs
+- amount: 1/2 cup
+  name: Sour cream
+- amount: 1/2 cup
+  name: Sugar
+- amount: 1/2 tsp
+  name: Vanilla
 
 instruction:
 - Preheat oven 275 degrees
