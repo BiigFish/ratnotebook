@@ -2,7 +2,7 @@
 category: food
 layout: recipe
 title: Sponge Cake
-image: /resources/images/sponge.jpg
+image: /resources/images/sponge.png
 description: also commonly called egg cake
 
 recipe-description: Do you need an excellent light dessert and you have way too many eggs?
