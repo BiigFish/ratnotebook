@@ -16,19 +16,19 @@ three-star: fas fa-star
 four-star: far fa-star
 five-star: far fa-star
 ingredients:
-- amount: 1 1/4 cups
+- amount: 1 1/4 cups (122g)
   name: Oats
 - amount: 2 Tbsp
   name: Chia Seeds / Flaxseeds / Oats
 - amount: 1/2 cup
   name: Peanut Butter
-- amount: 1/3 cup
+- amount: 1/4 cup
   name: Honey / Maple Syrup
 - amount: 1 tsp
   name: Vanilla Extract
 - amount: 1/4 tsp
   name: Salt
-- amount: 1/3 cup
+- amount: 1/4 cup
   name: Chocolate Chips
 
 instruction:
@@ -39,8 +39,6 @@ instruction:
 - Eat
 notes:
 - Recipe stolen from <a href="https://www.wellplated.com/energy-balls/">here</a>
-- Decrease chocolate chips to maybe a 1/4 cup?
-- could skimp on sweetener
 - never skimp on peanut butter
 
 pre: "<h4>Pre</h4>
