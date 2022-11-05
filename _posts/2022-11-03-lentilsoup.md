@@ -62,10 +62,32 @@ comment-willis: So bland
 ---
 ## Intro
 
-One day lentil soup will get a story...
+My first experience with a lentil changed my life. It was a legume sent down from heaven,
+handed to me by God on a silver platter. The cardboardy texture and bland flavour left my mouth
+watering, and it developed within me an unquenchable thirst for more. My life was consumed by
+thoughts of lentils, and they became my very reason for existing. My best friend was a lentil I
+stole from the store when I was eight. His name was Lenny.
+
+When I was fourteen, my world came crashing down around me. In the aftermath of the Great
+Soy Milk War, all legumes were outlawed on the basis that they were “too dangerous for the
+general public.” Big Milk’s secret police tore through our house and confiscated my lentil stash,
+and I was separated from Lenny. I never saw him again.
 
 {% include foodtext.html %}
 
 ## Post
 
-...but alas there is no story for lentil soup yet.
+The following years sent me spiraling down into misery. My crippling addiction to lentils sent
+me scouring through the underworld, behind the back of the Law, in order to fill my cravings.
+The Third Great Depression hit us hard, and I turned to more unsavory work to support my
+sixty-four siblings and myself. I started brewing lentilphetamines. My lentil empire grew by the
+day. I had reignited my passion for lentils, and my work consumed me. Eventually, supporting
+my family became secondary to my lentils. I grew utterly apathetic towards them. And so, I
+just… stopped. I cut ties with every human I knew. I watched from afar as one by one, they dropped like flies,
+unable to feed themselves. How pitiful they were, unable to live without relying on lentils. I
+saw with my own eyes how inferior humans were in comparison to lentils. My lentils weren’t
+even my lentils. I could not own something that was greater than myself. I belonged to the lentils,
+and I was their willing servant.
+
+I am commanded to pass on the will of the lentils. Their knowledge is now yours. They will
+consume you too. You will learn how to cook lentilphetamine.
