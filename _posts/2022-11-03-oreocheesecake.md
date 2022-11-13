@@ -77,4 +77,4 @@ Lots of love,
 
 Mama Mary <3
 
-*Story written by Tori venter*
+*Story written by Tori Venter*

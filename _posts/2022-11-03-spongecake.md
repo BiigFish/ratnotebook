@@ -17,9 +17,9 @@ four-star: fas fa-star
 five-star: far fa-star
 ingredients:
 - amount: Part 1
-- amount: 1 cup
+- amount: 1 cup (120g)
   name: Flour
-- amount: 1 cup
+- amount: 1 cup (200g)
   name: Sugar
 - amount: 1/2 tsp
   name: Baking powder

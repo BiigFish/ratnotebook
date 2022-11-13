@@ -91,3 +91,5 @@ and I was their willing servant.
 
 I am commanded to pass on the will of the lentils. Their knowledge is now yours. They will
 consume you too. You will learn how to cook lentilphetamine.
+
+*Story written by a concerned citizen*
