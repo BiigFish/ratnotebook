@@ -65,10 +65,6 @@ One of my kids suggested one year that we make Smartie cheesecake instead. I tol
 
 Mama Mary’s cheesecake recipe is made from all natural ingredients :)
 
-{% include foodtext.html %}
-
-## Post
-
 Remember, this recipe belongs to Mama Mary and not to any of these other websites
 pretending it’s theirs!! I’m talking to you, Carol-Ann, you husband-stealing whore. I SEE you
 put my oreo cheesecake recipe on your website! Take it down or I WILL be calling my lawyer!
@@ -76,5 +72,26 @@ put my oreo cheesecake recipe on your website! Take it down or I WILL be calling
 Lots of love,
 
 Mama Mary <3
+
+{% include foodtext.html %}
+
+## Post
+
+Hi y’all! Just a little update to this recipe blog. You may have noticed that this same recipe,
+my Oreo Cheesecake Recipe that was passed down from my mother’s sister’s cousin’s aunt’s
+close-friend(-who-we-all-know-is-her-wife)’s acquaintance’s dog’s nephew twice removed,
+was spotted on Mama Mary’s blog. She was postin’ slanderous nonsense sayin’ that I stole
+this recipe from her. No wonder her son doesn’t talk to her anymore. I wanted to remind y’all
+that this recipe was passed down to me! It is my recipe and I will be speakin’ to my lawyers
+about having Mama Mary’s Recipe website taken down.
+
+It should also be known that I didn’t steal your husband, Mary, he sprinted away from you
+and all your lies.
+
+Take down the oreo cheesecake recipe you stole from me off of your blog and delete those
+slanderous comments. Remember, God is always watchin’, and so are the lawyers paid for by
+your ex-husband.
+
+Love Always, Carol-Ann
 
 *Story written by Tori Venter*
