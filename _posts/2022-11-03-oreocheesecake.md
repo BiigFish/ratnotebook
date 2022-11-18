@@ -48,7 +48,7 @@ comment-daisy: I love it! This really is the best dessert ever!
 comment-goose: this is really hard to mix
 comment-willis: Cooking with oros huh, didn't you hear that oreo got cancelled.
 ---
-## Intro
+## Mama Mary's Recipe
 
 Hi y’all! Welcome to Mama Mary’s Oreo Cheesecake Recipe! :) I’m so glad you could be here
 with us.
@@ -75,7 +75,7 @@ Mama Mary <3
 
 {% include foodtext.html %}
 
-## Post
+## Carol-Anne's Recipe
 
 Hi y’all! Just a little update to this recipe blog. You may have noticed that this same recipe,
 my Oreo Cheesecake Recipe that was passed down from my mother’s sister’s cousin’s aunt’s
