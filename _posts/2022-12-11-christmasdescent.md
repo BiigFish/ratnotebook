@@ -102,7 +102,7 @@ Henry's wife answered. The call was quick. An explanation of absence and assuran
 > 
 > Chaninkski's Energy Balls are the perfect snack or meal to consume while reading. The act of reading exercises the brain and requires energy and nutrients. Chaninkski's Energy Balls were designed to completely satisfy your body's craving, both physically and mentally.
 > 
-> Purchase one box for only $9.81, or for limited time, buy 2 get 1 half off! That's limited time. Don't wait. Order now at [Energy Balls (ratnotebook.com)](https://www.ratnotebook.com/food/energyballs/).
+> Purchase one box for only $9.81, or for limited time, buy 2 get 1 half off! That's limited time. Don't wait. [Order now.](https://www.ratnotebook.com/food/energyballs/).
 > 
 > We'll now return you to your local reading.
 
