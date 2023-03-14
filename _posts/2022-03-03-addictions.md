@@ -40,11 +40,11 @@ Techno Addiction is no different from any other drug. And just like a drug addit
 
 The difficulty about this is that having a techno addiction is so accepted in our culture that we don't even view it as a problem. So lets dive into it.
 
-What do you wake up to, on the beginning of a fresh week? It's Sunday, hopefully you don't responsibilities, and you can relax and sleep in until the sun has warmed the morning air. What's the first thing you do on this fresh week? Check your iPhone and see your weekly screen time report. "Oh great, I spent three hours a day on my phone this week. Cool." Three hours isn't even an embarrassing number. Feels perfectly normal. But three hours is 21 hours in one week, and that's a whole fucking day, including sleep, spent on the phone. I think that's crazy. And that's not even including the time I spend on my computer doing useless shit.
+What do you wake up to, on the beginning of a fresh week? It's Sunday, hopefully you don't have responsibilities, and you can relax and sleep in until the sun has warmed the morning air. What's the first thing you do on this fresh week? Check your iPhone and see your weekly screen time report. "Oh great, I spent three hours a day on my phone this week. Cool." Three hours isn't even an embarrassing number. Feels perfectly normal. But three hours is 21 hours in one week, and that's a whole fucking day, including sleep, spent on the phone. I think that's crazy. And that's not even including the time I spend on my computer doing useless shit.
 
 So what exactly am I doing during all this time. What exactly is Techno Addiction? I don't have a problem, I'm just keeping up to date with the world by scrolling through the feed.
 
-Scrolling Through the Feed: so your Insta, Twitter, TikTok, YouTube, Reddit, Facebook, etc. While these sites have their uses like finding out the person you sat next to in Grade School is pregnant, or learning about how to distill beer, most of the time spent on the feed will not be so productive. The little dopamine we receive has driven us to find and consume more and more random bullshit on the feed. Now we're not just following the person we sat next to in Grade School, but we're also following random internet influences in different countries, people we'll never meet, but for some reason we know they're expecting their first child, and we've never been more excited in our lives to hear about. And we're not learning how to distill beer anymore, instead we're watching hour long videos about why the brand-new Batman movie is the worst thing ever and has been ruined by the some political movement. We're gaining absolutely nothing. And this is assuming that learning about person you sat next to once decade ago is even an important thing. (Beer distillery on the other hand, is very important.)
+Scrolling Through the Feed: so your Insta, Twitter, TikTok, YouTube, Reddit, Facebook, etc. While these sites have their uses like finding out the person you sat next to in Grade School is pregnant, or learning about how to distill beer, most of the time spent on the feed will not be so productive. The little dopamine we receive has driven us to find and consume more and more random bullshit on the feed. Now we're not just following the person we sat next to in Grade School, but we're also following random internet influences in different countries, people we'll never meet, but for some reason we know they're expecting their first child, and we've never been more excited in our lives to hear about it. And we're not learning how to distill beer anymore, instead we're watching hour long videos about why the brand-new Batman movie is the worst thing ever and has been ruined by the some political movement. We're gaining absolutely nothing. And this is assuming that learning about the person you sat next to once a decade ago is even an important thing. (Beer distillery on the other hand, is very important.)
 
 But my choice of poison was video games. And oh god, they are so fucking fun. I was allured by the immersive gameplay, the gripping stories, the new medium of adventure. But, the corporations noticed that games can make a lot of money, and they transformed them from fun into grinding money machines. I don't feel happy when I'm playing games. All I feel is the trickle of dopamine as I mindlessly kill strangers over and over and over. And then I get really mad because I died due to the fault of a stranger on my team. And repeat. For about three hours a day. 
 
@@ -52,7 +52,7 @@ I wasn't really getting much done in life due to all this wasted time. I always 
 
 Be critical of the media you consume. Once I started thinking about the meaningless content that I was reading/watching and how little effect it had on my life, it made me realize how much a waste it all was. 
 
-And then be even more critical. Who's making the algorithms that give you the feed? How are these providers rich with money? I am merely data being analyzed and brainwashed? Constantly viewing the feed isn't just a waste of time, it's unhealthy.
+And then be even more critical. Who's making the algorithms that give you the feed? How are these providers rich with money? Am I merely data being analyzed and brainwashed? Constantly viewing the feed isn't just a waste of time, it's unhealthy.
 
 I accepted I had a bad addiction.
 
@@ -102,7 +102,7 @@ Lmao who's addicted to Facebook.
 
 ### Netflix
 
-So this is where I rebounded the hardest. I had so much time in the day with quitting video games, super depressed because I just wanted to play video games, so I ended up watching a lot of TV. I binged like three series. Some were good, some were shit. I don't know what to tell you. Eventually my withdrawal eased out, and I stopped being addicted to watching TV shows. Consuming unique and well written TV shows isn't the worst way to suffer a withdrawal. 
+So this is where I rebounded the hardest. I had so much time in the day with quitting video games, and was super depressed because of said reason, so I ended up watching a lot of TV. I binged like three series. Some were good, some were shit. I don't know what to tell you. Eventually my withdrawal eased out, and I stopped being addicted to watching TV shows. Consuming unique and well written TV shows isn't the worst way to suffer a withdrawal. 
 
 > I was starting to feel self-conscious of my constant nodding. He was talking a lot. I wondered if I was supposed to have a notebook out taking notes or something.
 
@@ -114,7 +114,7 @@ I guess to recap the previous step, make everything as inconvenient as possible.
 
 Wow, the days are long without an addiction. What to do with all this extra time. 
 
-There is a theory, that one can eliminate all their addictions, and achieve true enlightenment with the amount of time and productivity. Unfortunately, being a human being in the 21st century requires you to be an addict of something. So choose something productive. 
+There is a theory, that one can eliminate all their addictions, and achieve true enlightenment with spending 100% of your time being productivity. Unfortunately, being a human being in the 21st century requires you to be an addict of something. So choose something productive. 
 
 I've become addicted to coding (I don't recommend). But just start doing stuff. Start a new hobby that you've always wanted to do. Start a new project, begin planning for something, do your work more thoroughly. Do something, do anything other than admire strangers on your phone. Start living for yourself. Those dreams of you being super cool and productive in the future, don't let those be dreams. "If you will it, it is no dream."
 
@@ -122,7 +122,7 @@ I've become addicted to coding (I don't recommend). But just start doing stuff. 
 
 ## Step 4: Don't Go Extreme
 
-Don't lose too much of yourself in your absinthe. You don't need to completely eliminate technology and start living in the woods with no electricity (actually that would be fucking cool). Technology is a great tool, but only when you have control of it. I still play video games, but only with friends. I am using video games to socialize with close friends. I am in control. And I still use Reddit for information, still watch YouTube for entertainment, still read Twitter to be influenced by people I'm aspired by, etc. I don't view myself as a hypocrite. It's okay to use technology, just don't waste your life away doing nothing.
+Don't lose too much of yourself in your absinthe. You don't need to completely eliminate technology and start living in the woods with no electricity (actually that would be really nice). Technology is a great tool, but only when you have control of it. I still play video games, but only with friends. I am using video games to socialize with close friends. I am in control. And I still use Reddit for information, still watch YouTube for entertainment, still read Twitter to be influenced by people I'm aspired by, etc. I don't view myself as a hypocrite. It's okay to use technology, just don't waste your life away doing nothing.
 
 > I'm going to blog about you. 
 
