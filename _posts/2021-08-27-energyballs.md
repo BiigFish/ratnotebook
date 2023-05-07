@@ -20,7 +20,7 @@ ingredients:
   name: Oats
 - amount: 2 Tbsp
   name: Chia Seeds / Flaxseeds / Oats
-- amount: 1/2 cup
+- amount: 1/2 cup (135g)
   name: Peanut Butter
 - amount: 1/4 cup
   name: Honey / Maple Syrup
