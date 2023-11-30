@@ -1,7 +1,7 @@
 ---
 category: fiction
 title: Midnight Meal
-image: /resources/svg/midnight_meal.svg
+image: /resources/images/midnight_meal.png
 description: Submitted to a contest with the prompt, fall
 order: [1, 2, 3, 4]
 comment-demon: What a dumb ass story. who wrote this?! a highschooler? Thats what it reads like. Pathetic. Get over it loser
