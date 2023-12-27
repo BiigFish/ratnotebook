@@ -2,12 +2,12 @@
 category: fiction
 title: Box Runner
 image: /resources/images/boxrunner.png
-description: Every day should be a holiday
-order: [ 3, 2, 4, 1 ]
+description: A new years story.
+order: [3, 2, 4, 1]
 comment-demon: what a loser
 comment-daisy: I love it! Happy New Year
 comment-goose: whats in the box?!
-comment-willis: This story is completely unrealistic and is slandering Amazon for treating their employees unfairly. 
+comment-willis: This story is completely unrealistic and is slandering Amazon for treating their employees unfairly.
 ---
 
 Tyler, or as everyone called him at work, T-Man, was ranting during Joe&#39;s break.

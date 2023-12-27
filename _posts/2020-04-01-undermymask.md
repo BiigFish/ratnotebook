@@ -2,8 +2,8 @@
 category: fiction
 title: Under my Mask
 image: /resources/images/undermymask.png
-description: 48hr contest story... this is long and I wouldn't read it. 
-order: [ 4, 3, 2, 1 ]
+description: 48hr contest story with the prompt, Mask.
+order: [4, 3, 2, 1]
 comment-demon: what did I just read. B O R I N G
 comment-daisy: I love it! such a mood
 comment-goose: what happened?? nothing makes sense

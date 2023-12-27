@@ -2,8 +2,8 @@
 category: fiction
 title: Cat Meet Cat
 image: /resources/svg/CatMeetCat.svg
-description: Submitted to a contest with the prompt, love
-order: [ 1, 2, 3, 4 ]
+description: Winner for a contest with the prompt, Love
+order: [1, 2, 3, 4]
 comment-demon: cats cant talk idiot
 comment-daisy: I love it! The kitties are so cute!!!
 comment-goose: why was their a war going on?? im so confused
@@ -14,11 +14,11 @@ comment-willis: I'm tired of reading stories that have sad endings for the sake 
 
 ## Meet One
 
-The towering skyscrapers make it difficult to catch the afternoon sun. But there are a few spots, and on a particular sunny day, the wandering cat found one. 
+The towering skyscrapers make it difficult to catch the afternoon sun. But there are a few spots, and on a particular sunny day, the wandering cat found one.
 
 It was a small out of place house up on the hill, squished between two large corporate buildings. It had a windowsill that overlooked the city below, and was accompanied by a lucky spotlight of pure sunlight. The wandering cat slipped between the gaps in the fence and hopped onto the sunny brick windowsill.
 
-To the cat's surprise, the spot was already occupied. 
+To the cat's surprise, the spot was already occupied.
 
 Kind of...
 
@@ -26,7 +26,7 @@ On the other side of the window, a white fluffy cat was sitting on the windowsil
 
 "You're blocking my sun," said the indoor cat.
 
-The outdoor cat ignored the comment. 
+The outdoor cat ignored the comment.
 
 The indoor cat continued, "What makes you think you have the right to sit here, at my window?"
 
@@ -46,19 +46,19 @@ The indoor cat was not one to be bullied, "I wouldn't want to go anywhere you go
 
 "You only dream of that. You look so desperate that'd you eat garbage out of the trash."
 
-Time passed and the afternoon sun soon became the evening sun. The birds in the tree above grew tired of the constant bickering of the cats. They flew off to more peaceful trees. 
+Time passed and the afternoon sun soon became the evening sun. The birds in the tree above grew tired of the constant bickering of the cats. They flew off to more peaceful trees.
 
 "The sun is down, you're not even getting any sunlight. Can you leave now?" argued the indoor cat.
 
 "No. I think I'll stay here for the night."
 
-Inside a bell rang. Dinner time. Even though the indoor cat was determined to not give up the fight, the call of dinner was too great. In a final tease, the indoor cat said, "It's my dinner time, I'm going to enjoy a delicious full meal of sardines. Hope you enjoy being in the cold with no food." 
+Inside a bell rang. Dinner time. Even though the indoor cat was determined to not give up the fight, the call of dinner was too great. In a final tease, the indoor cat said, "It's my dinner time, I'm going to enjoy a delicious full meal of sardines. Hope you enjoy being in the cold with no food."
 
-The wandering outdoor cat remained at the window. It was a victory, the last one to hold their ground. But it didn't feel victorious. The windowsill spot was no longer in any sunlight, and the warmth was rapidly disappearing. And the wandering cat was hungry. The wandering cat decided to stay where they were for the night. To sleep through the hunger and darkness. 
+The wandering outdoor cat remained at the window. It was a victory, the last one to hold their ground. But it didn't feel victorious. The windowsill spot was no longer in any sunlight, and the warmth was rapidly disappearing. And the wandering cat was hungry. The wandering cat decided to stay where they were for the night. To sleep through the hunger and darkness.
 
 ## Night
 
-Voices on loud speakers boomed throughout the night with warnings. Doors were locked tight, some windows boarded up. The sky was pitch dark, but flares lit the streets as soldiers marched along with armoured vehicles. 
+Voices on loud speakers boomed throughout the night with warnings. Doors were locked tight, some windows boarded up. The sky was pitch dark, but flares lit the streets as soldiers marched along with armoured vehicles.
 
 ## Meet Two
 
@@ -108,7 +108,7 @@ The window was now open, only the screened mesh separated the cats.
 
 ## Meet Three
 
-On some mornings, Oregano would hop onto the windowsill and be surprised to not find Rat. Alone with just sunlight. Oregano wondered if Rat had gotten bored and moved on, never to return. But just when she was about fully give up on Rat, they'd appear the next day saying they had gone out to deal with business or find food. 
+On some mornings, Oregano would hop onto the windowsill and be surprised to not find Rat. Alone with just sunlight. Oregano wondered if Rat had gotten bored and moved on, never to return. But just when she was about fully give up on Rat, they'd appear the next day saying they had gone out to deal with business or find food.
 
 "What kind of food do you eat?" asked Oregano.
 
@@ -148,7 +148,7 @@ Between bites, "Much better than that dry kibble!"
 
 A routine was developed. Rat would catch whatever scraps they could find and share it with Oregano. Oregano loved it, but felt quite lonely on the times that Rat was gone looking for food. She wished she could help and offer something. The sun was already low.
 
-Rat appeared with a rat in their mouth, but also came with bruises, cuts, and blood covering their fur. 
+Rat appeared with a rat in their mouth, but also came with bruises, cuts, and blood covering their fur.
 
 "What happened!"
 
@@ -172,7 +172,7 @@ Oregano scratched the window screen more, increasing the size of the rip.
 
 Once the screen was done, Oregano said, "Come in, you can't stay out there with the dogs."
 
-Rat was hesitant. They were never invited inside anywhere. Their whole life was an existence of invasion, never welcomed anywhere. 
+Rat was hesitant. They were never invited inside anywhere. Their whole life was an existence of invasion, never welcomed anywhere.
 
 Oregano looked welcoming. A rare sight for Rat.
 
@@ -184,7 +184,7 @@ The box was small, but both cats found space to fit themselves into it, their bo
 
 Rat felt so tired, but they tried to stay awake. They always had to stay awake, it was never safe. Especially in a house they've never been in before. But the blanket and Oregano felt so soft, and they felt so tired. Rat couldn't help but close their eyes just for a bit. Just for a second.
 
-Time crept by at an unknown pace. Usually Rat had a good sense of time, but it was Oregano that told them that three days had passed. 
+Time crept by at an unknown pace. Usually Rat had a good sense of time, but it was Oregano that told them that three days had passed.
 
 "Three days!" said Rat in shock.
 
@@ -194,13 +194,13 @@ Time crept by at an unknown pace. Usually Rat had a good sense of time, but it w
 
 "Sorry I tried to go out and catch some food, but I couldn't get anything."
 
-"Aha let the pro handle it." 
+"Aha let the pro handle it."
 
 Rat felt a new sense of energy. Never in their life had they felt so well rested. Rat galloped down the steps, through the hole in the screen, past the yard, through the fence, down the street, under the next fence, and on and on. Rat knew a reliable spot for fresh rats.
 
-The street was messier than it had ever been. Bodies were now being left on the main roads. Only smoke remained from the fires. It was a long journey to the rat spot, but the wandering cat was determined. 
+The street was messier than it had ever been. Bodies were now being left on the main roads. Only smoke remained from the fires. It was a long journey to the rat spot, but the wandering cat was determined.
 
-Sure enough, an old abandoned house was still full of meaty rats. Rat easily caught two and carried them back home. Again through the torn streets of death. The afternoon sun was setting. 
+Sure enough, an old abandoned house was still full of meaty rats. Rat easily caught two and carried them back home. Again through the torn streets of death. The afternoon sun was setting.
 
 Through the fence, up the windowsill, through the screen and into the house. It was quiet.
 
@@ -210,19 +210,19 @@ And it was quiet.
 
 No sign of Oregano.
 
-Rat dropped the food from their mouth and investigated the other rooms. No signs of life. 
+Rat dropped the food from their mouth and investigated the other rooms. No signs of life.
 
 Rat started to meow. Rat had never meowed before. But right now, Rat was meowing quite loudly.
 
-There was no reply. 
+There was no reply.
 
 Rat went back to the bedroom. The box with the softest blanket was gone.
 
-Also the car was gone from beside the house. 
+Also the car was gone from beside the house.
 
 Rat sat on the bed, leaving the dead rats on the floor. Rat would wait until Oregano came back.
 
-The afternoon sun disappeared. 
+The afternoon sun disappeared.
 
 ## The Suns
 
@@ -234,13 +234,13 @@ Days became weeks. And anything after that became a blur.
 
 ## The Seasons
 
-What did change was the war in the city. The gunshots began to decrease. And then even the gunshots in the night stopped. The smoke and fires blew away too. The mean scary people stopped occupying the streets, replaced by happy gentle people. 
+What did change was the war in the city. The gunshots began to decrease. And then even the gunshots in the night stopped. The smoke and fires blew away too. The mean scary people stopped occupying the streets, replaced by happy gentle people.
 
-Rat didn't notice. They remained in the house. Waiting. 
+Rat didn't notice. They remained in the house. Waiting.
 
-Cars with luggage on top started to drive into the city streets with normal families returning to their homes. 
+Cars with luggage on top started to drive into the city streets with normal families returning to their homes.
 
-The popular news story was about families returning and finding that their vacated homes had become infested with rats. The news articles would always conclude with the same joke about it being a very good time to be in the exterminator business. 
+The popular news story was about families returning and finding that their vacated homes had become infested with rats. The news articles would always conclude with the same joke about it being a very good time to be in the exterminator business.
 
 However, the family that lived at the top of the hill were greatly relieved when they moved back into their old house and didn't find any rats. Instead they found a scraggly cat sitting on the bed. The family scooped up the cat and placed it into a blanketed box. The blanket was so soft.
 

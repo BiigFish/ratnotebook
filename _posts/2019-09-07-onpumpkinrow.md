@@ -2,10 +2,10 @@
 category: fiction
 title: On Pumpkin Row
 image: /resources/images/pumpkin.png
-description: Written for a Halloween contest back in the day
-order: [ 2, 1, 3 ]
+description: Winner for a Halloween contest back in the day
+order: [2, 1, 3]
 comment-demon: Stomping on pumpkins is cool
-comment-daisy: So spooky but I love it! 
+comment-daisy: So spooky but I love it!
 comment-goose: what pumpkins can't have thoughts. they're just fruit... or are they veg??
 ---
 

@@ -2,8 +2,8 @@
 category: fiction
 title: Brain Dust
 image: /resources/images/ant.png
-description: No description today
-order: [ 1, 2, 3, 4 ]
+description: A cyberpunk story.
+order: [1, 2, 3, 4]
 comment-demon: Chloe sounds hot
 comment-daisy: I love it! where is tunnels?
 comment-goose: was there an ant??

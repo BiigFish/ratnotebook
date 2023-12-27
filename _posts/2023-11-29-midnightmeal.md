@@ -2,7 +2,7 @@
 category: fiction
 title: Midnight Meal
 image: /resources/svg/midnight_meal.svg
-description: Submitted to a contest with the prompt, fall
+description: Winner for a contest with the prompt, Fall
 order: [1, 2, 3, 4]
 comment-demon: What a dumb ass story. who wrote this?! a highschooler? Thats what it reads like. Pathetic. Get over it loser
 comment-daisy: I love it! So mixed with sad happy and cheesey and lovely!!!

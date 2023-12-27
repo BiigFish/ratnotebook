@@ -2,12 +2,12 @@
 category: fiction
 title: From Cloud to Cloud
 image: /resources/images/cloud.png
-description: laziness strikes again. No description for this one 
-order: [ 1, 3, 2, 4 ]
+description: Submitted for a contest with the prompt, Bad Advice
+order: [1, 3, 2, 4]
 comment-demon: gayyyy
-comment-daisy: I love it! 
+comment-daisy: I love it!
 comment-goose: what did the black line mean??
-comment-willis: At least it was short. 
+comment-willis: At least it was short.
 ---
 
 The sky was perfectly clear. Above was a deep blue transitioning into pale yellow as it descended toward the horizon, hinting at the sunset hidden behind the foreground of tall buildings. If this were a painting, people would marvel at its colourful depiction of a sky. Nat took in this view, leaning out her 6th floor window of a building that rose so much higher.
