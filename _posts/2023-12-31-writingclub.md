@@ -191,7 +191,7 @@ For sake of thoroughness, here's some remembered good and bad social moments.
 - Meetings with no chemistry. The prompt is boring, there's no topic, and everyone leaves early cause there's nothing to say.
 - I've never really like the sleepover event. It's too long and informal to hang out with people that I'm not close with. Though one time the sleepover ended early at midnight so I had an afterparty with just the close people. Wild time.
 
-  - Online. I find it incredibly hard to have chill conversations online.
+- Online. I find it incredibly hard to have chill conversations online.
 
 ## Conclusion
 
