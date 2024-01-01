@@ -1,7 +1,7 @@
 ---
 category: non-fiction
 tag: article
-title: How (not) to Run a Writing Club
+title: Running a Writing Club
 image: /resources/svg/writingClub.svg
 description: Wrote this a year ago to the new generation of execs when I left the writing club
 order: [1, 2, 3, 4]
