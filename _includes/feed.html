@@ -3,9 +3,9 @@
     {% when "/fiction/" %}
         {% for post in site.categories.fiction %}
             <div class="item">
-                <div class="image-container container-fiction">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-fiction">
                     {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </div>
+                </a>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
                         <h3>{{ post.title }}</h3>
@@ -24,9 +24,9 @@
         </div>
         {% for post in site.tags.article %}
             <div class="item">
-                <div class="image-container container-non-fiction">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-non-fiction">
                     {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </div>
+                </a>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
                         <h3>{{ post.title }}</h3>
@@ -39,9 +39,9 @@
     {% when "/non-non-fiction/" %}
         {% for post in site.categories.non-non-fiction %}
             <div class="item">
-                <div class="image-container container-non-non-fiction">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-non-non-fiction">
                     {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </div>
+                </a>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
                         <h3>{{ post.title }}</h3>
@@ -54,9 +54,9 @@
     {% when "/food/" %}
         {% for post in site.categories.food %}
             <div class="item">
-                <div class="image-container container-food">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-food">
                     {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </div>
+                </a>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
                         <h3>{{ post.title }}</h3>
@@ -70,14 +70,14 @@
         {% for post in site.posts %}
         {% unless post.categories contains "blog" %}
             <div class="item">
-                <div class="image-container
+                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container
                     {% if post.category == "fiction" %}container-fiction
                     {% elsif post.category == "non-fiction" %}container-non-fiction
                     {% elsif post.category == "non-non-fiction" %}container-non-non-fiction
                     {% elsif post.category == "food" %}container-food
                     {% endif %}">
                     {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </div>
+                </a>
                 <div class="text-container">
                     <a href="{{ site.baseurl }}{{ post.url }}">
                         <h3>{{ post.title }}</h3>
