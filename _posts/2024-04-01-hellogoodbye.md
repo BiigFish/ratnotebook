@@ -1,4 +1,4 @@
-```
+---
 category: fiction
 title: Hello Goodbye
 image: /resources/svg/helloGoodbye.svg
@@ -8,17 +8,17 @@ comment-demon: Get a life and stop with these looser stories
 comment-daisy: I love it! But it's also soo sad :(
 comment-goose: what movie was playing?
 comment-willis: Already mistakes in the first paragraph. Iconically isn't a word
-```
+---
 
 # Hello Goodbye
 
 "Henry!"
 
-I turn my head and there she is, Alice in the flesh. Her hair's much longer now, not iconically short and red, instead long wavy blonde. But it's those black boots that she always wore that I recognize and I know it's definitely her. 
+I turn my head and there she is, Alice in the flesh. Her hair's much longer now, not iconically short and red, instead long wavy blonde. But it's those black boots that she always wore that I recognize and I know it's definitely her.
 
 It feels like a dream.
 
-I leave my spot in the concession line and quickly make my way towards her. 
+I leave my spot in the concession line and quickly make my way towards her.
 
 "Oh my god," she says and we hug. I've forgotten how tight her hugs are and I reflexively know that she's on her tippy toes. What has it been, three or six years now?
 
@@ -92,7 +92,7 @@ Sounds of movie trailers begin in the other room.
 
 She leaves and I return to the concession line.
 
-I exhale for the first time. 
+I exhale for the first time.
 
 By the time I have the snacks the final ad is playing. I find my seat in the dark and pass the drink and popcorn to my partner. She leans to my ear and whispers that I missed one of worst trailers she's ever seen. I try to spot Alice in the theatre but the room is too dark to see anything.
 
@@ -102,4 +102,4 @@ When it ends, I contemplate waiting at my seat to bump into Alice and her friend
 
 "Shall we," says my partner.
 
-"Yep," I reply and we exit the theatre. 
+"Yep," I reply and we exit the theatre.
