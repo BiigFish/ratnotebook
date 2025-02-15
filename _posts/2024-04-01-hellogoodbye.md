@@ -1,7 +1,7 @@
 ---
 category: fiction
 title: Hello Goodbye
-image: /resources/svg/helloGoodbye.svg
+image: /resources/svg/hello_goodbye.svg
 description: Winner for a contest with the prompt, Growing Up
 order: [1, 2, 3, 4]
 comment-demon: Get a life and stop with these looser stories
