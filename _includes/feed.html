@@ -1,92 +1,96 @@
 <div class="feed">
     {% case page.url %}
     {% when "/fiction/" %}
-        {% for post in site.categories.fiction %}
-            <div class="item">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-fiction">
-                    {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </a>
-                <div class="text-container">
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                        <h3>{{ post.title }}</h3>
-                        <time>{{ post.date | date: "%B %-d, %Y" }}</time>
-                        <p>{{ post.description }}</p>
-                    </a>
-                </div>
-            </div>
-        {% endfor %}
-
-    {% when "/non-fiction/" %}
-        <div class="blog-link">
-            <a href="{{ site.baseurl }}/non-fiction/blog/">
-                <h3>THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG</h3>
+    {% for post in site.categories.fiction %}
+    <div class="item">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-fiction">
+            {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{%
+            endif %}
+        </a>
+        <div class="text-container">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <h3>{{ post.title }}</h3>
+                <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+                <p>{{ post.description }}</p>
             </a>
         </div>
-        {% for post in site.tags.article %}
-            <div class="item">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-non-fiction">
-                    {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </a>
-                <div class="text-container">
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                        <h3>{{ post.title }}</h3>
-                        <time>{{ post.date | date: "%B %-d, %Y" }}</time>
-                        <p>{{ post.description }}</p>
-                    </a>
-                </div>
-            </div>
-        {% endfor %}
-    {% when "/non-non-fiction/" %}
-        {% for post in site.categories.non-non-fiction %}
-            <div class="item">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-non-non-fiction">
-                    {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </a>
-                <div class="text-container">
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                        <h3>{{ post.title }}</h3>
-                        <time>{{ post.date | date: "%B %-d, %Y" }}</time>
-                        <p>{{ post.description }}</p>
-                    </a>
-                </div>
-            </div>
-        {% endfor %}
+    </div>
+    {% endfor %}
+
+    {% when "/non-fiction/" %}
+    <div class="blog-link">
+        <a href="{{ site.baseurl }}/non-fiction/blog/">
+            <h3>THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE BLOG THE
+                BLOG THE BLOG THE BLOG</h3>
+        </a>
+    </div>
+    {% for post in site.tags.article %}
+    <div class="item">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-non-fiction">
+            {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{%
+            endif %}
+        </a>
+        <div class="text-container">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <h3>{{ post.title }}</h3>
+                <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+                <p>{{ post.description }}</p>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+    {% when "/websites/" %}
+    {% for post in site.categories.websites %}
+    <div class="item">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-websites">
+            {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{%
+            endif %}
+        </a>
+        <div class="text-container">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <h3>{{ post.title }}</h3>
+                <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+                <p>{{ post.description }}</p>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
     {% when "/food/" %}
-        {% for post in site.categories.food %}
-            <div class="item">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-food">
-                    {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </a>
-                <div class="text-container">
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                        <h3>{{ post.title }}</h3>
-                        <time>{{ post.date | date: "%B %-d, %Y" }}</time>
-                        <p>{{ post.description }}</p>
-                    </a>
-                </div>
-            </div>
-        {% endfor %}
+    {% for post in site.categories.food %}
+    <div class="item">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="image-container container-food">
+            {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{%
+            endif %}
+        </a>
+        <div class="text-container">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <h3>{{ post.title }}</h3>
+                <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+                <p>{{ post.description }}</p>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
     {% else %}
-        {% for post in site.posts %}
-        {% unless post.categories contains "blog" %}
-            <div class="item">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="image-container
-                    {% if post.category == "fiction" %}container-fiction
-                    {% elsif post.category == "non-fiction" %}container-non-fiction
-                    {% elsif post.category == "non-non-fiction" %}container-non-non-fiction
-                    {% elsif post.category == "food" %}container-food
-                    {% endif %}">
-                    {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{% endif %}
-                </a>
-                <div class="text-container">
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                        <h3>{{ post.title }}</h3>
-                        <time>{{ post.date | date: "%B %-d, %Y" }}</time>
-                        <p>{{ post.description }}</p>
-                    </a>
-                </div>
-            </div>
-        {% endunless %}
-        {% endfor %}
+    {% for post in site.posts %}
+    {% unless post.categories contains "blog" %}
+    <div class="item">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="image-container
+                    {% if post.category == " fiction" %}container-fiction {% elsif post.category=="non-fiction"
+            %}container-non-fiction {% elsif post.category=="websites" %}container-websites {% elsif
+            post.category=="food" %}container-food {% endif %}">
+            {% if {{post.image}} %}<img src="{{ post.image | prepend: site.baseurl }}" alt="{{post.title}} cover">{%
+            endif %}
+        </a>
+        <div class="text-container">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <h3>{{ post.title }}</h3>
+                <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+                <p>{{ post.description }}</p>
+            </a>
+        </div>
+    </div>
+    {% endunless %}
+    {% endfor %}
     {% endcase %}
 </div>

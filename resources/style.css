@@ -10,50 +10,60 @@ body {
     display: flex;
     gap: 10px;
 }
+
 @media only screen and (max-width: 480px) {
     .navigation {
         gap: 5px;
     }
 }
+
 .navigation a {
     color: white;
     text-decoration: none;
-    flex-grow:4;
+    flex-grow: 4;
     flex-basis: 0;
     text-align: center;
     height: 50px;
     display: table;
-    margin-top:10px;
+    margin-top: 10px;
     transition: 0.3s;
 
 }
+
 .nav-item h2 {
     font-size: 16px;
     font-weight: 100;
     display: table-cell;
     vertical-align: middle;
 }
+
 .nav-fiction {
     background-color: #ffbd59;
 }
+
 .nav-non-fiction {
     background-color: #5271ff;
 }
-.nav-non-non-fiction {
+
+.nav-websites {
     background-color: #ff5757;
 }
+
 .nav-food {
     background-color: #7ed597;
 }
+
 .navigation a:hover {
     margin-bottom: 0;
     padding-top: 10px;
-    margin-top:0;
+    margin-top: 0;
 }
+
 .nav-current {
     margin-top: 0 !important;
     padding-top: 10px;
 }
+
 .banner a {
     display: block;
     text-decoration: none;
@@ -61,44 +71,55 @@ body {
     background-size: 200% 200%;
     transition: background-position 1s;
 }
+
 .banner h1 {
     color: white;
     margin: 0;
     padding: 40px 0;
-    font-size:50px;
-    font-weight:100;
+    font-size: 50px;
+    font-weight: 100;
 }
+
 .banner-fiction {
     background-image: linear-gradient(to bottom, black 50%, #ffbd59 0);
     background-position: bottom;
 }
+
 .banner-fiction:hover {
     background-position: top;
 }
+
 .banner-non-fiction {
     background-image: linear-gradient(to bottom, black 50%, #5271ff 0);
     background-position: bottom;
 }
+
 .banner-non-fiction:hover {
     background-position: top;
 }
-.banner-non-non-fiction {
+
+.banner-websites {
     background-image: linear-gradient(to bottom, black 50%, #ff5757 0);
     background-position: bottom;
 }
-.banner-non-non-fiction:hover {
+
+.banner-websites:hover {
     background-position: top;
 }
+
 .banner-food {
     background-image: linear-gradient(to bottom, black 50%, #7ed597 0);
     background-position: bottom;
 }
+
 .banner-food:hover {
     background-position: top;
 }
-.banner-home{
+
+.banner-home {
     background-color: black;
 }
+
 @media only screen and (max-width: 720px) {
     .banner h1 {
         font-size: 45px;
@@ -110,54 +131,66 @@ body {
 .item {
     margin: 20px 0;
 }
+
 .image-container {
     width: calc(50% - 40px);
     display: inline-block;
     margin-right: 20px;
 }
+
 .image-container img {
     max-width: 100%;
-    min-width:auto;
+    min-width: auto;
     display: block;
     margin: auto;
 }
+
 .container-fiction {
     border: solid 10px #ffbd59;
 }
+
 .container-non-fiction {
     border: solid 10px #5271ff;
 }
-.container-non-non-fiction {
+
+.container-websites {
     border: solid 10px #ff5757;
 }
+
 .container-food {
     border: solid 10px #7ed597;
 }
+
 .text-container {
     display: inline-block;
     margin-left: 20px;
     width: calc(49% - 20px);
     vertical-align: top;
 }
+
 .text-container a {
     color: black;
     text-decoration: none;
 }
+
 .text-container h3 {
     font-size: 60px;
     margin: 0;
-    margin-top:10px;
+    margin-top: 10px;
     transition: 0.3s;
 }
+
 .text-container h3:hover {
     background-color: black;
     color: white;
 }
+
 .text-container time {
     font-size: 0.9em;
     margin: 1em 0;
     display: block;
 }
+
 .text-container p {
     font-size: 1em;
 }
@@ -167,91 +200,115 @@ body {
 .posts h1 {
     text-align: center;
 }
+
 .posts img {
     max-width: 100%;
     max-height: 350px;
     display: block;
     margin: auto;
 }
+
 .posts time {
     font-size: 0.9em;
     margin: 1em 0;
     display: block;
 }
+
 .description {
     font-size: 0.9em;
     margin: 1em 0;
     display: block;
-    font-style:italic;
+    font-style: italic;
 }
+
 .posts p {
     font-size: 12pt;
     font-family: 'Roboto', sans-serif;
     line-height: 1.4;
 }
+
 .posts blockquote {
-    border-left:3px solid #00A4EF;
+    border-left: 3px solid #00A4EF;
     padding-left: 5px;
 }
+
 .posts blockquote p {
     font-style: italic;
 }
+
 .recipe {
     border: solid 2px #010101;
     padding: 10px;
 }
+
 .yield {
-    display:block;
+    display: block;
 }
+
 .recipe-text {
     width: calc(66% - 20px);
-    margin-right:20px;
+    margin-right: 20px;
     display: inline-block;
     vertical-align: top;
 }
+
 .recipe-images {
-    width:32%;
+    width: 32%;
     display: inline-block;
 }
+
 .recipe-images img {
-    width:100%;
+    width: 100%;
 }
+
 .rating {
     text-align: center;
 }
-.fa-star, .fa-star-half-alt {
+
+.fa-star,
+.fa-star-half-alt {
     color: #f8ce46;
 }
+
 .recipe-text table {
     text-align: center;
     margin: auto;
 }
-.recipe-text  td {
+
+.recipe-text td {
     border-right: 2px solid grey;
     padding: 10px;
 }
+
 .recipe-text td:last-child {
     border-right: none;
 }
+
 .time-bold {
     color: grey;
 }
+
 ol {
     padding-left: 30px;
 }
+
 .ingredients {
     border-collapse: collapse;
     margin-left: 15px;
 }
+
 .ingredients tr {
     border-bottom: 1px solid grey;
 }
+
 .ingredients td {
     padding-right: 30px;
 }
+
 .ingredients td:last-child {
     padding-right: 0;
 }
+
 .return-button-container {
     display: grid;
     grid-template-columns: 120px 120px;
@@ -260,6 +317,7 @@ ol {
     margin: 30px 0;
 
 }
+
 .return-button {
     color: black;
     text-decoration: none;
@@ -268,29 +326,36 @@ ol {
     padding: 5px;
     text-align: center;
 }
+
 .return-button:hover {
     color: white;
     background-color: black;
 }
+
 .return-button-sub {
     color: red;
     border-color: red;
 }
+
 .return-button-sub:hover {
     background-color: red;
 }
+
 @media only screen and (max-width: 720px) {
     .posts {
         margin: 0 10px;
     }
 }
+
 /* BLOG */
 .blog-link {
     margin-top: 20px;
 }
+
 .blog-link a {
     text-decoration: none;
 }
+
 .blog-link h3 {
     border: solid 10px #5271ff;
     color: black;
@@ -300,55 +365,74 @@ ol {
     white-space: nowrap;
     transition: 0.3s;
 }
+
 .blog-link h3:hover {
     color: white;
     background-color: #5271ff;
 }
+
 .blog-container {
     border-left: solid 3px black;
     margin-left: 5px;
 }
+
 .blog-post {
     padding-top: 20px;
 }
+
 .blog-post a {
     color: black;
     text-decoration: none;
 }
-.blog-post time, .blog-post h3, .blog-post p, .blog-post hr, .blogtag-container {
+
+.blog-post time,
+.blog-post h3,
+.blog-post p,
+.blog-post hr,
+.blogtag-container {
     display: inline-block;
     vertical-align: middle;
     margin: 0;
     transition: 0.25s;
 }
+
 .blog-post hr {
     width: 30px;
     border: 0;
     border-bottom: 1.5px solid black;
 }
+
 .blog-post .blogtag {
     background-color: lightgrey;
     border-radius: 25px;
     padding: 2px 6px;
 }
+
 .blog-post .blog-desc {
     margin-left: 75px;
 }
+
 .blog-post a:hover hr {
     border-bottom: 4px solid #5271ff;
 }
+
 .blog-post a:hover h3 {
     color: #5271ff;
 }
+
 @media only screen and (max-width: 650px) {
-    .blog-post .blog-line1, .blog-post .blog-line2 {
+
+    .blog-post .blog-line1,
+    .blog-post .blog-line2 {
         width: 10px;
     }
 }
+
 @media only screen and (max-width: 550px) {
     .blog-post .blog-line2 {
         display: none;
     }
+
     .blog-post .blogtag-container {
         margin-left: 75px;
         display: block;
@@ -359,60 +443,75 @@ ol {
 .comments {
     margin-top: 50px;
 }
+
 .comments h2 {
     margin-bottom: 0;
 }
+
 .comments hr {
     margin: 0 0 30px 0;
 }
+
 .message {
     background-color: #f7f9fc;
     margin: 10px 0;
     display: block;
 }
+
 .message img {
     display: inline-block;
     width: 48px;
 }
+
 .comment-text-container {
     display: inline-block;
-    width: calc(100% - 60px); /* Don't know why 48px doesn't work */
+    width: calc(100% - 60px);
+    /* Don't know why 48px doesn't work */
     vertical-align: top;
 }
+
 .name {
     color: #fb6a4a;
     text-decoration: underline;
     display: block;
     margin-bottom: 12px;
 }
+
 @media only screen and (max-width: 720px) {
     .comments {
         margin: 0 10px;
     }
 }
+
 /* FORM */
 .form-container {
     width: 100%;
 }
+
 .subscribe-text {
     display: block;
     text-align: center;
 }
+
 .subscribe-light {
     font-weight: lighter;
 }
+
 .subscribe-medium {
     font-weight: initial;
 }
+
 .subscribe-heavy {
     font-weight: bold;
 }
+
 .sub-svg {
     height: 800px;
     display: block;
     margin: 10px auto;
     background-color: aliceblue;
 }
+
 @media only screen and (max-width: 530px) {
     .sub-svg {
         height: inherit;
@@ -425,12 +524,14 @@ ol {
     .image-container {
         display: block;
     }
+
     .image-container {
         z-index: -1;
         position: absolute;
         width: calc(100% - 20px);
         height: 350px;
     }
+
     .text-container {
         width: calc(100% - 20px);
         margin: 10px 10px 0 10px;
@@ -438,6 +539,7 @@ ol {
         max-height: 350px;
         position: relative;
     }
+
     .text-container a {
         width: calc(100% - 10px);
         position: absolute;
@@ -446,6 +548,7 @@ ol {
         background-color: rgba(0, 0, 0, 0.8);
         color: white;
     }
+
     .text-container h3 {
         font-size: 30px;
     }
