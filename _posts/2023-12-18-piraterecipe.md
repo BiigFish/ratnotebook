@@ -10,7 +10,7 @@ comment-goose: its not loading help!
 comment-willis: Half the recipes require you to have a specific bread machine and nowhere does it mention what kind. Terrible site.
 ---
 
-Link: [food.ratnotebook.com](https://food.ratnotebook.com/)
+Link: [food.ratnotebook.com](https://food.ratnotebook.com/){:target="_blank"}
 
 Picture this. You're half way into a recipe. Your hands are covered in raw meet and sauce. You're behind schedule and stressed and can't remember what the next step in the recipe is or how much to pour. 
 

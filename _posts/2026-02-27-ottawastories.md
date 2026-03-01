@@ -10,7 +10,7 @@ comment-goose: wear is ottawa?
 comment-willis: These stories literally have nothing to do with Ottawa. It's like you picked a random city and then just wrote normal boring stories that have nothing to do with the city? So what is the point of it all?
 ---
 
-Link: [ottawa.ratnotebook.com/](https://ottawa.ratnotebook.com/)
+Link: [ottawa.ratnotebook.com/](https://ottawa.ratnotebook.com/){:target="_blank"}
 
 Scattered stories in the city of Ottawa. 
 
